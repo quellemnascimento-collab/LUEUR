@@ -12,7 +12,7 @@
 | Item | Plano original LUEUR | Material recebido | **Ajuste final (v2)** |
 |---|---|---|---|
 | Conceito de marca | "Fases da Luz" (Aurora/Golden Hour/Dusk/Night Glow), estética noturna | "Iluminação criativa", minimalismo escandinavo | **Mantém "Fases da Luz"** (mais original e defensável) + adota paleta clara/aconchegante do material recebido como base do dia a dia, reservando tons escuros/Night Glow como assinatura de diferenciação |
-| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta híbrida**: base clara/quente (creme aurora, âmbar, bronze) para 80% da comunicação + "Night Glow" como linha cápsula de alto impacto visual |
+| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta final definida pela fundadora**: tons terrosos (bruma, sálvia, rosa-pó, pêssego, âmbar, marrom-chocolate) — ver seção 4.2. Night Glow usa o marrom-chocolate como base |
 | Concorrentes | Focava só em marcas de nicho/design (Tropix, Else, Brink) | Inclui players de massa (Kalunga, Tilibra, Faber-Castell) e nicho (Papel de Pato, Planeta Kawaii) | **Mescla as duas listas** — investidor precisa ver o cenário completo (massa + nicho + premium) |
 | Marketplaces | Shopee, ML, Elo7, Amazon, Instagram/TikTok Shop | Adiciona Magalu, Americanas, hub integrador | **Inclui todos**, mas prioriza 2 no início (ver seção 6) |
 | Eventos | Genéricos | Nomes e datas específicas (Escritório Escolar Brasil, EMBANEWS, LicenciamentoCon) | **Mantém os nomes específicos**, com aviso para confirmar datas/local antes de planejar viagem/orçamento |
@@ -96,20 +96,24 @@ Não há, hoje, uma marca brasileira que combine: **(1)** sistema de coleções 
 > **"Cada um brilha na sua hora."** — sistema "Fases da Luz" (Aurora, Golden Hour, Dusk, Night Glow), mantido do
 > plano original por ser mais distintivo que o conceito genérico de "iluminação criativa".
 
-### 4.2 Paleta de cores (revisada — híbrida)
+### 4.2 Paleta de cores — VERSÃO FINAL (definida pela fundadora)
 
-A paleta original (excesso de preto/escuro) foi ajustada para um **uso 80/20**: base clara e quente para o dia a
-dia da marca (feed, embalagens padrão, site), com a paleta escura reservada para a linha **Night Glow** — isso
-torna a marca mais convidativa no Instagram/Pinterest sem perder o diferencial noturno.
+A paleta abaixo foi escolhida e validada pela fundadora, substituindo as propostas anteriores. É uma paleta
+terrosa/aconchegante — foge tanto do pastel kawaii quanto do preto pesado, e ainda assim sustenta a linha
+**Night Glow** como contraponto (ver nota abaixo).
 
-| Cor | Nome | Uso | Origem |
+| Cor | Nome sugerido | Hex | Uso |
 |---|---|---|---|
-| `#FFF8F0` | Creme Aurora | Fundo principal, embalagens | material recebido |
-| `#D4A574` | Âmbar Quente | Textos, logotipo, detalhes | material recebido |
-| `#8B6F47` | Bronze da Terra | Acabamentos premium (hot stamping) | material recebido |
-| `#FFB4A0` | Rosa do Pôr do Sol | Acentos da coleção Aurora | material recebido |
-| `#2C241B` | Tinta da Meia-Noite | Tipografia principal, linha Night Glow | material recebido |
-| **+ Detalhe fosforescente/prata** | "Glow" | Exclusivo da linha Night Glow (capas, adesivos) | plano original LUEUR — **diferencial técnico mantido** |
+| Off-white rosado | Bruma | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
+| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento "natureza/sustentabilidade", coleção Golden Hour |
+| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, coleção Aurora, etiquetas |
+| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques de coleção, capas Aurora |
+| Dourado-amadeirado | Âmbar | `#A4824A` | Detalhes premium, hot stamping, ícones |
+| Marrom-chocolate | Terra Noturna | `#4A3624` | **Cor de tipografia principal e logotipo** — substitui a "Tinta da Meia-Noite" preta, mantendo contraste mas com tom mais quente |
+
+**Nota sobre Night Glow**: a linha-cápsula Night Glow mantém seu diferencial técnico (tinta fosforescente que
+brilha no escuro) aplicada sobre o `Terra Noturna` (#4A3624) como base — ou seja, a linha cápsula usa a cor mais
+escura da paleta acima como fundo, evitando introduzir uma paleta "extra" só para essa coleção.
 
 ### 4.3 Tipografia e logotipo
 
