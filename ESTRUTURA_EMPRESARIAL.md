@@ -5,55 +5,53 @@
 > empresa se organiza por setores, quanto custa de fato operar nos próximos 6 meses, e quantas pessoas você
 > realmente precisa contratar — e quando.
 
+**CNPJ ativo**: `65.723.134/0001-86` — **LUEUR Papelaria** (já constituída). A partir daqui, o foco é
+enquadramento, regularização e abertura de canais com base nesse CNPJ.
+
 ---
 
-## 1. Estrutura Jurídica — O que fazer AMANHÃ
+## 1. Estrutura Jurídica — Situação Atual e Próximos Passos
 
-### 1.1 Escolha do regime: comece como MEI, migre para ME quando bater o teto
+### 1.1 Confirmar o enquadramento tributário atual
 
-**Por quê MEI primeiro?**
-- Abertura **gratuita e em poucos minutos**, 100% online, pelo Portal do Empreendedor (gov.br).
-- Já emite CNPJ, permite emitir nota fiscal, abrir conta PJ e vender em marketplaces.
-- Custo fixo mensal baixíssimo (DAS — Documento de Arrecadação do Simples).
+Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual regime ele foi aberto**:
 
-**Limite do MEI**: receita bruta de até **R$ 81.000/ano** (~R$ 6.750/mês em média).
-Pelas projeções do plano de negócio, a LUEUR deve **ultrapassar esse limite entre o mês 6 e o mês 9** — então o
-caminho correto é:
+- **Se MEI**: limite de receita bruta de **R$ 81.000/ano** (~R$ 6.750/mês em média). Pelas projeções do plano de
+  negócio, a LUEUR deve **ultrapassar esse limite entre o mês 6 e o mês 9** — planejar desde já a migração para
+  **ME (Microempresa) — Simples Nacional**, via desenquadramento do MEI, quando:
+  - a receita acumulada projetada do ano ultrapassar ~R$ 70.000 (margem de segurança antes do limite), **ou**
+  - for necessário contratar funcionário CLT formalmente (MEI permite só 1 funcionário, com regras restritas).
+- **Se já ME/Simples Nacional**: ótimo — não há teto de R$ 81k a vigiar, mas é preciso atenção às faixas do
+  Simples Nacional (alíquotas aumentam por faixa de receita acumulada nos 12 meses).
 
-1. **Abrir como MEI agora** (rapidez para começar a vender já).
-2. **Migrar para ME (Microempresa) — Simples Nacional**, via desenquadramento do MEI, quando:
-   - a receita acumulada projetada do ano ultrapassar ~R$ 70.000 (margem de segurança antes do limite), **ou**
-   - você precisar contratar funcionário CLT formalmente (MEI permite só 1 funcionário, com regras restritas).
+> **Ação prática imediata**: contratar/confirmar contador (ex: Contabilizei, Agilize ou contador local) e validar:
+> (1) regime tributário atual, (2) CNAEs cadastrados, (3) se há Inscrição Estadual ativa.
 
-> **Ação prática**: já abra o MEI hoje. Em paralelo, contrate um contador (pode ser online, ex: Contabilizei,
-> Agilize, ou similar) para já desenhar a transição para ME — isso evita susto fiscal quando o faturamento crescer.
+### 1.2 Checklist do que já deve estar pronto (ou ser confirmado em até 7 dias)
 
-### 1.2 Passo a passo — Abertura do MEI (hoje)
+1. **CNAEs cadastrados** — confirmar se incluem:
+   - **Principal**: 47.61-0/03 — Comércio varejista de artigos de papelaria.
+   - **Secundário recomendado**: 47.89-0/05 — Comércio varejista de outros produtos não especificados (cobre
+     adesivos, kits, brindes) e, se aplicável, 82.99-7/99 (personalização).
+   - Se algum CNAE necessário estiver faltando, solicitar **inclusão de atividade** junto à Receita/Junta Comercial
+     (pode ser feito pelo Portal do Empreendedor se for MEI, ou via contador se for ME).
+2. **Nome fantasia**: confirmar se "LUEUR Papelaria" está registrado no CNPJ (alterar se necessário).
+3. **Conta PJ**: abrir/confirmar conta PJ digital vinculada ao CNPJ `65.723.134/0001-86` (Nubank PJ, Inter PJ, C6 PJ
+   — gratuitas e 100% online), caso ainda não exista.
+4. **Certificado digital e-CNPJ A1**: necessário para emissão de NF-e em alguns estados e exigido por marketplaces
+   maiores (Mercado Livre, Amazon, Magalu). Pode ser providenciado em paralelo, não bloqueia vendas iniciais.
+5. **Inscrição Estadual / emissor de NF-e**: confirmar com a Sefaz do seu estado se já está ativa — necessária para
+   emitir nota fiscal de produto (NF-e), exigida pelos grandes marketplaces.
 
-1. Acessar **gov.br → Portal do Empreendedor** (ou app "Empresa Fácil"/"gov.br").
-2. Ter em mãos: CPF, título de eleitor ou última declaração de IR (para validação de identidade), endereço (pode
-   ser residencial — endereço fiscal).
-3. Escolher a(s) **atividade(s) — CNAE**:
-   - **Principal**: 47.61-0/03 — Comércio varejista de artigos de papelaria (cobre venda física e online).
-   - **Secundária recomendada**: 47.89-0/05 — Comércio varejista de outros produtos não especificados (cobre
-     itens variados como adesivos, kits, brindes) e 82.99-7/99 (caso ofereça serviços de personalização).
-4. Definir nome fantasia: **"LUEUR Papelaria"**.
-5. Emitir o **CCMEI** (Certificado da Condição de Microempreendedor Individual) — já sai com o CNPJ.
-6. **No mesmo dia**, com o CNPJ em mãos:
-   - Abrir **conta PJ digital** (Nubank PJ, Inter PJ, C6 PJ — abertura 100% online, sem custo).
-   - Solicitar **certificado digital e-CNPJ A1** (necessário para emissão de nota fiscal em alguns estados/marketplaces) — pode ser feito posteriormente, não bloqueia vendas iniciais.
-   - Verificar necessidade de **Inscrição Estadual** junto à Sefaz do seu estado (necessária para emitir NF-e de
-     produtos — varia conforme estado; em SP, por exemplo, é feita pelo posto fiscal eletrônico).
-
-### 1.3 Outras pendências burocráticas (primeiras semanas, não bloqueiam o início)
+### 1.3 Outras pendências burocráticas (primeiras semanas, não bloqueiam o início das vendas)
 
 | Item | Prazo recomendado | Observação |
 |---|---|---|
 | Alvará de funcionamento (se houver espaço físico/estoque fora de casa) | até 30 dias | Dispensável se operação 100% home office, mas confirmar na prefeitura |
-| Registro de marca (INPI) | iniciar processo na 1ª semana | Processo demora meses, mas **deve ser iniciado logo** para proteger o nome "LUEUR" |
-| Inscrição estadual / emissor de NF-e | até 15 dias | Necessário para vender em marketplaces grandes (Mercado Livre, Amazon exigem NF) |
-| Licença sanitária/ambiental | normalmente não aplicável a papelaria | Confirmar se algum insumo (tintas) exige declaração |
-| Contrato com contador | imediato | Essencial para folha de pagamento futura e migração MEI → ME |
+| Registro de marca (INPI) | iniciar processo na 1ª semana | Processo demora meses, mas **deve ser iniciado logo** para proteger o nome "LUEUR" — use o CNPJ `65.723.134/0001-86` como titular do pedido |
+| Inscrição estadual / emissor de NF-e | até 15 dias (se ainda não houver) | Necessário para vender em marketplaces grandes (Mercado Livre, Amazon exigem NF) |
+| Licença sanitária/ambiental | normalmente não aplicável a papelaria | Confirmar se algum insumo (tintas fosforescentes da linha Night Glow) exige declaração |
+| Contrato com contador | imediato (se ainda não houver) | Essencial para confirmar regime atual e planejar folha de pagamento/migração |
 
 ---
 
@@ -234,13 +232,14 @@ Se R$ 65-90k não estiver disponível agora, ajuste por **ordem de prioridade** 
 ## 5. Direcionamento para Tomada de Decisão — Checklist "Amanhã"
 
 ### 5.1 Hoje/Amanhã (burocracia)
-- [ ] Abrir o MEI no Portal do Empreendedor (CNAE 47.61-0/03).
-- [ ] Abrir conta PJ digital (Nubank PJ ou Inter PJ).
-- [ ] Contratar contador externo (mensalidade).
-- [ ] Iniciar pesquisa de registro de marca no INPI.
+- [x] CNPJ ativo (`65.723.134/0001-86`).
+- [ ] Confirmar com o contador o regime tributário atual (MEI ou ME) e os CNAEs cadastrados.
+- [ ] Abrir/confirmar conta PJ digital vinculada ao CNPJ (Nubank PJ ou Inter PJ).
+- [ ] Contratar contador externo (mensalidade), se ainda não houver.
+- [ ] Iniciar pesquisa e pedido de registro de marca no INPI (titularidade: CNPJ acima).
 
 ### 5.2 Esta semana (estrutura)
-- [ ] Catalogar todo o estoque atual (planilha: SKU, custo, quantidade, fornecedor, coleção/"fase da luz").
+- [ ] Catalogar todo o estoque atual na planilha `planilhas/estoque.csv` (SKU, custo, quantidade, fornecedor, coleção/"fase da luz").
 - [ ] Montar a planilha de fluxo de caixa (modelo da seção 4.2) com seus números reais.
 - [ ] Definir os **2 marketplaces prioritários** para os primeiros 90 dias (recomendação: Shopee + site próprio,
   adicionando Mercado Livre no mês 2).
