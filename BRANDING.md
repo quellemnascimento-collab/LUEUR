@@ -122,17 +122,26 @@
 - **Corpo/UX**: Inter (legibilidade em telas, neutra, moderna).
 - **Uso**: títulos sempre em Terra Noturna (`#4A3624`) ou Âmbar (`#A4824A`) sobre fundo Bruma; nunca preto puro.
 
-### 4.3 Logotipo
+### 4.3 Logotipo — Versão Final
 
-- **Wordmark**: "LUEUR" em Playfair Display, caixa alta, com leve aumento de espaçamento entre letras (tracking)
-  para reforçar sofisticação.
-- **Glifo de luz**: símbolo de estrela de 4 pontas (✦) ou ponto de luz substituindo o ponto do "Ü"/"I" —
-  recomendação: usar a estrela ✦ como ícone separado (para favicon, selo de embalagem, redes sociais) e o
-  "ponto de luz" como detalhe sutil no wordmark completo.
-- **Versões**: (1) wordmark + glifo (uso principal), (2) wordmark sozinho (aplicações pequenas), (3) glifo sozinho
-  (ícone de app/favicon/selo de cera).
-- **Cores do logo**: versão principal em Terra Noturna sobre Bruma; versão reversa em Bruma sobre Terra Noturna
-  (para a linha Night Glow/embalagens escuras).
+Logo definido pela fundadora: wordmark **"Lueur"** em Playfair Display (caixa baixa, com maiúscula inicial),
+em tom Terra Noturna sobre fundo Bruma, com pequenos brilhos/sparkles em Âmbar ao redor das letras (no canto
+superior esquerdo do "L" e entre as letras do "u" e "r"), e a assinatura **"PAPELARIA E ATELIÊ"** em caixa alta,
+Inter, espaçada, abaixo do wordmark.
+
+- **Wordmark**: "Lueur" em Playfair Display, caixa baixa com inicial maiúscula — mais acolhedor/editorial que a
+  versão toda em caixa alta testada anteriormente.
+- **Glifos de luz**: pequenos sparkles (✦/✧) em Âmbar posicionados de forma assimétrica ao redor do wordmark —
+  substitui o conceito de "um único glifo no ponto do i".
+- **Assinatura "Papelaria e Ateliê"**: reforça o posicionamento de marca de autor/produção própria (não apenas
+  revenda) — manter essa assinatura em toda comunicação institucional (site, embalagens, assinatura de e-mail).
+- **Versões**:
+  1. Logo completo (wordmark + sparkles + assinatura) — uso principal (site, packaging, perfil social).
+  2. Wordmark + sparkles, sem assinatura — aplicações menores (favicon grande, selos).
+  3. Apenas sparkles (✦) — ícone de app, marca de água, elemento gráfico de apoio.
+- **Cores do logo**: versão principal em Terra Noturna + sparkles em Âmbar sobre fundo Bruma; versão reversa em
+  Bruma + sparkles em Âmbar sobre fundo Terra Noturna (para a linha Night Glow/embalagens escuras — os sparkles
+  nessa versão podem usar tinta fosforescente real no packaging físico).
 
 ### 4.4 Fotografia — Diretrizes
 

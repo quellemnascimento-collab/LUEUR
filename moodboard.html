@@ -109,11 +109,18 @@
   .logo-cell .word {
     font-family: 'Playfair Display', serif;
     font-size: 48px;
-    letter-spacing: 10px;
     color: var(--terra);
+    position: relative;
   }
-  .logo-cell .word .star { color: var(--ambar); font-size: 24px; vertical-align: super; }
-  .logo-cell .sub { margin-top: 10px; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: var(--ambar); }
+  .logo-cell .word .star {
+    color: var(--ambar);
+    font-size: 16px;
+    position: absolute;
+  }
+  .logo-cell .word .star.s1 { top: -14px; left: -10px; font-size: 12px; }
+  .logo-cell .word .star.s2 { top: -6px; right: 28px; }
+  .logo-cell .word .star.s3 { bottom: 6px; right: -6px; font-size: 12px; }
+  .logo-cell .sub { margin-top: 14px; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: var(--ambar); }
 
   .texture {
     background-image: repeating-linear-gradient(45deg, var(--po-de-luz) 0 2px, var(--bruma) 2px 14px);
@@ -137,14 +144,16 @@
 </head>
 <body>
   <header>
-    <h1>LU<span class="glow">✦</span>UR</h1>
+    <h1><span class="glow">✧</span> Lueur <span class="glow">✦</span></h1>
     <div class="tagline">Cada um brilha na sua hora</div>
   </header>
 
   <div class="grid">
     <div class="cell logo-cell">
-      <div class="word">LU<span class="star">✦</span>UR</div>
-      <div class="sub">Papelaria de autor · Luz própria</div>
+      <div class="word">
+        <span class="star s1">✧</span>Lueur<span class="star s2">✦</span><span class="star s3">✧</span>
+      </div>
+      <div class="sub">Papelaria e Ateliê</div>
     </div>
 
     <div class="cell gradient-aurora">Fase Aurora<br>+ Golden Hour</div>
