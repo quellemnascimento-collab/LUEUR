@@ -60,9 +60,11 @@
 | Contexto | Frase |
 |---|---|
 | Slogan principal | **"Cada um brilha na sua hora."** |
+| Assinatura de redes sociais/bio | **"O brilho que mora em cada detalhe."** |
 | Tagline curta (embalagem/logo) | "Papelaria de autor. Luz própria." |
 | Pitch de elevador | "LUEUR é a papelaria que organiza sua vida pelo seu relógio interno, não pelo relógio de todo mundo." |
 | Hashtag de comunidade | #BrilhoProprio |
+| Pronúncia da marca | "Lueur" lê-se **"luêr"** — usar essa explicação nos primeiros conteúdos/bio para fixar a pronúncia |
 
 ---
 

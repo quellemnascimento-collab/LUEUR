@@ -5,15 +5,15 @@
 
 ## 1. Setup de Perfis
 
-### 1.1 Instagram (@lueur.papelaria — ajustar conforme disponibilidade)
+### 1.1 Instagram (@lueurpapelaria)
 
 - **Nome do perfil**: Lueur — Papelaria e Ateliê
-- **Bio**:
+- **Bio (versão final)**:
   ```
-  ✦ Cada um brilha na sua hora
-  Papelaria de autor · Coleções Fases da Luz
-  Ateliê de personalização ✎
-  👇 novidades + lançamentos
+  ✦ Lueur (lê-se "luêr")
+  o brilho que mora em cada detalhe
+  papelaria + ateliê — feito pra brilhar do seu jeito
+  suas fases, suas cores, seu ritmo 👇
   ```
 - **Link**: usar link único (Linktree/Beacons) apontando para: site, WhatsApp VIP, formulário Ateliê.
 - **Destaques (Stories Highlights)** — capas seguindo a paleta (Bruma/Âmbar):
@@ -24,9 +24,9 @@
   5. **Bastidores**
   6. **FAQ** (frete, prazo, trocas)
 
-### 1.2 TikTok (@lueur.papelaria)
+### 1.2 TikTok (@lueurpapelaria)
 
-- **Bio**: "✦ papelaria que brilha na sua hora | Night Glow ✨ | link na bio"
+- **Bio**: "✦ Lueur (luêr) | o brilho que mora em cada detalhe | Night Glow ✨ | link na bio"
 - Foco: vídeos curtos, ASMR, "brilha no escuro" (Night Glow tem altíssimo potencial de viralização aqui).
 
 ### 1.3 Pinterest
