@@ -137,6 +137,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 |---|---|
 | `PLANO_DE_NEGOCIO_V2.md` | Plano de negócio completo (mercado, concorrentes, branding, digital, marketplaces, eventos, fornecedores, projeções financeiras em 3 cenários) — **documento de referência principal** |
 | `BRANDING.md` | História da marca, posicionamento, personas, identidade visual, estratégia de marketing |
+| `REDES_SOCIAIS.md` | Setup de perfis, bios, calendário de conteúdo, banco de ideias (30 dias) e métricas |
 | `ATELIE_PERSONALIZACAO.md` | Linha de personalização/encomendas (Ateliê) — produtos, operação, precificação, marketing e impacto financeiro |
 | `moodboard.html` | Moodboard visual da identidade (paleta, tipografia, logo, direções de fotografia) |
 | `ESTRUTURA_EMPRESARIAL.md` | Burocracia, setores, orçamento mensal detalhado, plano de contratação, checklist de decisões |
