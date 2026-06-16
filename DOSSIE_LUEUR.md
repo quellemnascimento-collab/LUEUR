@@ -141,6 +141,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 | `PRODUTOS_VIRAIS_TIKTOK.md` | 22 produtos virais validados para TikTok Shop (papelaria + costura) com ângulo Lueur, ticket e estratégia de conteúdo |
 | `ATELIE_PERSONALIZACAO.md` | Linha de personalização/encomendas (Ateliê) — produtos, operação, precificação, marketing e impacto financeiro |
 | `LINHA_PAPELARIA_FINA.md` | Catálogo estratégico de papelaria fina (24 produtos, 5 eixos), benchmark Criare, tendências 2026 e programa de fidelidade |
+| `CATALOGO_PRODUTOS.md` | **Catálogo oficial real** — 16 SKUs (planejamento + organização + ateliê), specs de produção, preços, margens e bundles |
 | `moodboard.html` | Moodboard visual da identidade (paleta, tipografia, logo, direções de fotografia) |
 | `ESTRUTURA_EMPRESARIAL.md` | Burocracia, setores, orçamento mensal detalhado, plano de contratação, checklist de decisões |
 | `PLANO_DE_NEGOCIO.md` | Versão original do plano (mantida para histórico) |
