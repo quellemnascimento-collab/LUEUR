@@ -1,5 +1,5 @@
-# LUEUR — Plano de Negócio Consolidado (v2)
-### Versão ajustada: combina o plano original LUEUR com o material recebido, corrigindo inconsistências
+# MIEL — Plano de Negócio Consolidado (v2)
+### Versão ajustada: combina o plano original (rebatizado MIEL) com o material recebido, corrigindo inconsistências
 
 > Este documento substitui o `PLANO_DE_NEGOCIO.md` como referência principal. Mantém o conceito autoral da marca
 > (diferenciação real) e incorpora os dados de mercado, concorrentes, fornecedores e canais do material recebido —
@@ -9,10 +9,10 @@
 
 ## 0. O que mudou nesta versão — Resumo das diferenças
 
-| Item | Plano original LUEUR | Material recebido | **Ajuste final (v2)** |
+| Item | Plano original | Material recebido | **Ajuste final (v2)** |
 |---|---|---|---|
-| Conceito de marca | "Fases da Luz" (Aurora/Golden Hour/Dusk/Night Glow), estética noturna | "Iluminação criativa", minimalismo escandinavo | **Mantém "Fases da Luz"** (mais original e defensável) + adota paleta clara/aconchegante do material recebido como base do dia a dia, reservando tons escuros/Night Glow como assinatura de diferenciação |
-| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta final definida pela fundadora**: tons terrosos (bruma, sálvia, rosa-pó, pêssego, âmbar, marrom-chocolate) — ver seção 4.2. Night Glow usa o marrom-chocolate como base |
+| Conceito de marca | "Fases da Luz" (Aurora/Golden Hour/Dusk/Night Glow), estética noturna | "Iluminação criativa", minimalismo escandinavo | **Reposicionamento para MIEL**: substitui o sistema "Fases da Luz" por uma linha única sob "Beleza Funcional para Vida Intencional" — mais coerente com o público-alvo (profissionais criativas 25-45) e elimina a complexidade de gerenciar múltiplas sub-coleções |
+| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta final definida pela fundadora**: tons terrosos (Miel Cream, sálvia, rosa-pó, pêssego, Miel Dourado, marrom-chocolate) — ver seção 4.2 |
 | Concorrentes | Focava só em marcas de nicho/design (Tropix, Else, Brink) | Inclui players de massa (Kalunga, Tilibra, Faber-Castell) e nicho (Papel de Pato, Planeta Kawaii) | **Mescla as duas listas** — investidor precisa ver o cenário completo (massa + nicho + premium) |
 | Marketplaces | Shopee, ML, Elo7, Amazon, Instagram/TikTok Shop | Adiciona Magalu, Americanas, hub integrador | **Inclui todos**, mas prioriza 2 no início (ver seção 6) |
 | Eventos | Genéricos | Nomes e datas específicas (Escritório Escolar Brasil, EMBANEWS, LicenciamentoCon) | **Mantém os nomes específicos**, com aviso para confirmar datas/local antes de planejar viagem/orçamento |
@@ -23,15 +23,14 @@
 
 ## 1. Visão Executiva
 
-**LUEUR** ocupa o espaço entre três zonas do mercado brasileiro de papelaria:
+**MIEL** ocupa o espaço entre três zonas do mercado brasileiro de papelaria:
 
 - **Papelaria de massa** (Kalunga, Tilibra) — preço baixo, sem identidade emocional.
 - **Papelaria kawaii/fofa** (Planeta Kawaii, Bailarina de Papel) — forte em nicho, mas estética saturada.
 - **Premium importado** (Muji, Kokuyo, Staedtler) — preço alto, sem conexão local/emocional com o consumidor brasileiro.
 
-**Proposta de valor LUEUR**: *"Papelaria de autor que transforma o ritual de organizar e criar em uma experiência
-de luz própria — minimalismo acolhedor no dia a dia, com uma linha de assinatura (Night Glow) que literalmente
-brilha."*
+**Proposta de valor MIEL**: *"Papelaria de autor que une beleza e função em uma linha única e coerente —
+minimalismo refinado para quem vive a vida com intenção, sem nunca escolher entre estética e utilidade."*
 
 - **Ticket médio-alvo**: R$ 75–110 (posicionamento "premium acessível", entre a massa de R$30-50 e o importado de R$300+).
 - **Canal principal**: e-commerce próprio + marketplaces selecionados + redes sociais como motor de marca.
@@ -63,18 +62,18 @@ busca por produtos com identidade). Isso sustenta o racional de mercado sem depe
 
 | Marca | Posicionamento | Por que está no radar |
 |---|---|---|
-| **Kalunga** | Maior rede de papelaria do Brasil (200+ lojas + e-commerce) | Referência de distribuição e preço-piso; LUEUR não compete em preço, compete em experiência |
+| **Kalunga** | Maior rede de papelaria do Brasil (200+ lojas + e-commerce) | Referência de distribuição e preço-piso; MIEL não compete em preço, compete em experiência |
 | **Tilibra** | Fabricante, forte em material escolar | Referência de portfólio amplo e fabricação própria — possível parceiro de fabricação a longo prazo |
 | **Faber-Castell** | Escrita premium, marca alemã global | Benchmark de qualidade de produto (canetas/lápis) |
 
 ### 3.2 Players de nicho/design (concorrência direta de posicionamento)
 
-| Marca | Diferencial | Onde LUEUR se diferencia |
+| Marca | Diferencial | Onde MIEL se diferencia |
 |---|---|---|
-| **Papel de Pato** (@duckpaper) | Produtos exclusivos, comunidade digital forte desde 2022 | LUEUR aposta no sistema de coleções "Fases da Luz" (recorrência/colecionismo) e na linha Night Glow (produto fisicamente diferenciado) |
-| **Planeta Kawaii** / **Bailarina de Papel** | Estética kawaii/fofa, kits temáticos | LUEUR foge do kawaii — minimalismo acolhedor + drop "Night Glow" como contraponto sofisticado |
-| **Newpen** | Canetas premium + personagem/mascote ("A Patroa") | LUEUR usa um símbolo abstrato de luz (não personagem fofo) — fica mais "premium acessível" e menos infantilizado |
-| **Planejador Fabuloso** | 100% digital (planners virtuais) | Oportunidade: LUEUR pode oferecer versão física + digital complementar (ex: PDF de adesivos digitais incluso) |
+| **Papel de Pato** (@duckpaper) | Produtos exclusivos, comunidade digital forte desde 2022 | MIEL aposta em design refinado e voz para um público mais maduro (arquitetas/designers 25-45), não em colecionismo por fases |
+| **Planeta Kawaii** / **Bailarina de Papel** | Estética kawaii/fofa, kits temáticos | MIEL foge do kawaii — minimalismo refinado, "beleza funcional" como contraponto sofisticado |
+| **Newpen** | Canetas premium + personagem/mascote ("A Patroa") | MIEL usa um glifo abstrato (✦) e um universo simbólico discreto (camélia, cisne, pêssego japonês, Annecy) — não personagem fofo, fica mais premium e menos infantilizado |
+| **Planejador Fabuloso** | 100% digital (planners virtuais) | Oportunidade: MIEL pode oferecer versão física + digital complementar (ex: PDF de adesivos digitais incluso) |
 
 ### 3.3 Premium internacional (benchmark de produto/estética)
 
@@ -83,9 +82,10 @@ funcional**, não como concorrência direta (preço/distribuição muito diferen
 
 ### Gap de mercado confirmado
 
-Não há, hoje, uma marca brasileira que combine: **(1)** sistema de coleções temáticas com lógica emocional clara
-(Fases da Luz), **(2)** um produto-assinatura tecnicamente diferenciado (tinta fosforescente Night Glow) e
-**(3)** estética "minimalismo acolhedor" (nem kawaii, nem corporativo). Esse é o espaço da LUEUR.
+Não há, hoje, uma marca brasileira que combine: **(1)** uma linha de design coerente e refinada construída sobre
+"beleza funcional" (não decisão entre estética e utilidade), **(2)** voz e curadoria voltadas a um público mais
+maduro de profissionais criativas (arquitetas, designers, 25-45 anos) e **(3)** estética "minimalismo elegante"
+(nem kawaii, nem corporativo). Esse é o espaço da MIEL.
 
 ---
 
@@ -93,43 +93,40 @@ Não há, hoje, uma marca brasileira que combine: **(1)** sistema de coleções 
 
 ### 4.1 Conceito central
 
-> **"Cada um brilha na sua hora."** — sistema "Fases da Luz" (Aurora, Golden Hour, Dusk, Night Glow), mantido do
-> plano original por ser mais distintivo que o conceito genérico de "iluminação criativa".
+> **"Beleza Funcional para Vida Intencional."** — substitui integralmente o antigo sistema "Fases da Luz".
+> MIEL é tratada como uma linha única e coerente, não um conjunto de sub-coleções por momento do dia.
 
 ### 4.2 Paleta de cores — VERSÃO FINAL (definida pela fundadora)
 
-A paleta abaixo foi escolhida e validada pela fundadora, substituindo as propostas anteriores. É uma paleta
-terrosa/aconchegante — foge tanto do pastel kawaii quanto do preto pesado, e ainda assim sustenta a linha
-**Night Glow** como contraponto (ver nota abaixo).
+A paleta abaixo é majoritariamente herdada da identidade anterior (mesclada, não substituída) — é uma paleta
+terrosa/aconchegante que já funcionava bem e não era específica do conceito "fases".
 
-| Cor | Nome sugerido | Hex | Uso |
+| Cor | Nome | Hex | Uso |
 |---|---|---|---|
-| Off-white rosado | Bruma | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
-| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento "natureza/sustentabilidade", coleção Golden Hour |
-| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, coleção Aurora, etiquetas |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques de coleção, capas Aurora |
-| Dourado-amadeirado | Âmbar | `#A4824A` | Detalhes premium, hot stamping, ícones |
-| Marrom-chocolate | Terra Noturna | `#4A3624` | **Cor de tipografia principal e logotipo** — substitui a "Tinta da Meia-Noite" preta, mantendo contraste mas com tom mais quente |
+| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
+| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento "natureza/sustentabilidade" |
+| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
+| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta-se ao motivo simbólico "Pêssego Japonês" |
+| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping, ícones |
+| Marrom-chocolate | Terra Noturna | `#4A3624` | **Cor de tipografia principal e logotipo** |
 
-**Nota sobre Night Glow**: a linha-cápsula Night Glow mantém seu diferencial técnico (tinta fosforescente que
-brilha no escuro) aplicada sobre o `Terra Noturna` (#4A3624) como base — ou seja, a linha cápsula usa a cor mais
-escura da paleta acima como fundo, evitando introduzir uma paleta "extra" só para essa coleção.
+**Nota de transição**: apenas dois nomes de cor foram atualizados — "Bruma" → **Miel Cream** (mesmo hex) e
+"Âmbar" → **Miel Dourado** (mesmo hex, já era literalmente um tom mel/dourado). As demais quatro cores mantêm
+nome e hex originais, pois não eram específicas do conceito retirado.
 
 ### 4.3 Tipografia e logotipo
 
-- **Títulos**: Playfair Display (serifada premium) — sugestão do material recebido, mais acessível/legível que a
-  opção anterior (Fraunces/Canela), mantendo elegância editorial.
+- **Títulos**: Playfair Display (serifada premium) — elegância editorial.
 - **Corpo/UX**: Inter ou Lato.
-- **Logotipo**: wordmark "LUEUR" com um glifo de luz acima do "U" — pode ser o "ponto de luz" do plano original
-  **ou** a estrela de 4 pontas (✦) sugerida no material recebido. Recomendação: testar as duas versões com o
-  público-alvo (enquete no Instagram) antes de fechar — decisão de baixo custo e alto impacto de identidade.
-- **Mascote**: **não usar mascote/personagem fofo** (consenso entre os dois materiais) — manter identidade
-  abstrata baseada em luz/gradiente.
+- **Logotipo**: wordmark "Miel" com a estrela de 4 pontas (✦) como glifo de apoio — decisão da fundadora,
+  mantendo o glifo já validado e rejeitando explicitamente a substituição por outros símbolos (ex.: coração).
+- **Mascote**: **não usar mascote/personagem fofo** — manter identidade abstrata baseada no glifo ✦ e no
+  universo simbólico (camélia, cisne, pêssego japonês, Annecy).
 
 ### 4.4 Tom de voz
 
 Consolidado: **sofisticado, acolhedor, calmo** — evita tanto o "kawaii excessivo" quanto a "motivação rasa".
-Vocabulário-chave: luz, claridade, ritual, brilho próprio, organização sem estresse.
+Vocabulário-chave: beleza funcional, intenção, ritual, organização sem estresse.
 
 ---
 
@@ -151,25 +148,24 @@ Vocabulário-chave: luz, claridade, ritual, brilho próprio, organização sem e
 | Instagram | 4-5 posts/semana + Stories diários + 2-3 Reels/semana |
 | Pinterest | 10-15 pins/semana (alto retorno de SEO visual para papelaria) |
 | TikTok | 3-5 vídeos/semana (ASMR, bastidores, trends) |
-| YouTube | 1 vídeo/mês (formato longo: "um dia com LUEUR", reviews) |
+| YouTube | 1 vídeo/mês (formato longo: "um dia com MIEL", reviews) |
 | LinkedIn | 2 posts/mês — relevante apenas quando houver linha B2B (vendas corporativas/personalizadas) |
 
-### 5.3 Exemplos de copy (adaptados ao tom LUEUR)
+### 5.3 Exemplos de copy (adaptados ao tom MIEL)
 
-> **Lançamento Night Glow**: "Tem caderno que você guarda na gaveta. Tem caderno que brilha de volta pra você no
-> escuro. Bem-vinda à fase Night Glow — porque sua melhor ideia pode chegar às 23h. ✦🌙"
+> **Lançamento de produto**: "Tem caderno que só fica bonito na foto. Tem caderno que você realmente usa todos os
+> dias — e continua bonito. Essa é a ideia da MIEL: beleza funcional, sem escolher um lado. ✦"
 
-> **Coleção Aurora**: "Planejar não é prender sua rotina — é abrir espaço pra ela respirar. Nova fase Aurora: para
-> começar o dia com clareza, não com pressa."
+> **Linha geral**: "Planejar não é prender sua rotina — é abrir espaço pra ela respirar com intenção. ✦"
 
-> **Sustentabilidade**: "Papel reflorestado, tintas à base de água, embalagens que voltam pra natureza. Brilho que
+> **Sustentabilidade**: "Papel reflorestado, tintas à base de água, embalagens que voltam pra natureza. Beleza que
 > não custa o futuro. 🌱✦"
 
 ### 5.4 Conteúdos essenciais (lista consolidada)
 
-Unboxing ASMR, "setup luminoso" (mesa de trabalho), antes/depois de organização, tutoriais de uso de planner,
-bastidores de produção, depoimentos de clientes, comparativos de canetas/materiais, "qual fase da luz é você?"
-(quiz interativo).
+Unboxing ASMR, "desk setup" (mesa de trabalho), antes/depois de organização, tutoriais de uso de planner,
+bastidores de produção, depoimentos de clientes, comparativos de canetas/materiais, "o que é beleza funcional
+pra você?" (pergunta interativa/quiz).
 
 ---
 
@@ -208,7 +204,7 @@ bastidores de produção, depoimentos de clientes, comparativos de canetas/mater
 
 ### 6.4 Hub integrador de estoque
 
-Recomendado a partir do momento em que a LUEUR estiver em **3+ canais simultâneos** — evita overselling.
+Recomendado a partir do momento em que a MIEL estiver em **3+ canais simultâneos** — evita overselling.
 Opções: Bling/Tiny (mencionados no plano anterior) ou integradores como "Integra Online" (citado no material
 recebido). Custo médio: R$ 100–300/mês no plano inicial. **Não é prioridade nos primeiros 2 meses.**
 
@@ -220,7 +216,7 @@ recebido). Custo médio: R$ 100–300/mês no plano inicial. **Não é prioridad
 |---|---|---|---|
 | **Escritório Escolar Brasil** | 03–06/ago (referência 2025) | São Paulo - SP | Citado como maior evento do setor na América Latina — prioridade nº 1 para visita |
 | **EMBANEWS Eventos** | 26–29/mai (referência 2026) | São Paulo - SP | Foco em papelaria/material escolar |
-| **LicenciamentoCon** | 27–28/ago (referência 2025) | São Paulo - SP | Licenciamento de marcas/personagens — relevante se LUEUR fizer colaborações de marca |
+| **LicenciamentoCon** | 27–28/ago (referência 2025) | São Paulo - SP | Licenciamento de marcas/personagens — relevante se MIEL fizer colaborações de marca |
 
 > ⚠️ **Importante**: confirme as datas e locais exatos diretamente nos sites oficiais dos eventos antes de
 > reservar orçamento/viagem — essas datas vieram do material recebido e não foram verificadas nesta sessão.
@@ -328,10 +324,9 @@ mas com metas de faturamento **revisadas para um patamar alcançável**:
 > ⚠️ Os contatos (telefones/sites) listados no material recebido **não foram verificados** nesta sessão — antes
 > de fechar pedidos, confirme CNPJ ativo, condições comerciais e referências de outros clientes.
 
-### 9.2 Fornecedores para a linha Night Glow (diferencial técnico — mantido do plano original)
+### 9.2 Fornecedores para acabamentos especiais (diferencial técnico)
 
-- Fornecedores de **tinta/verniz fosforescente** para serigrafia (pesquisar fornecedores de insumos gráficos
-  especializados — esse insumo não consta no material recebido e é o principal diferencial técnico da marca).
+- Fornecedores de **hot stamping/foil dourado** e gravação a laser (acabamentos premium recorrentes na linha MIEL).
 - Distribuidoras de **papel especial** (perolado, holográfico fosco, kraft).
 
 ### 9.3 Lista de estoque inicial (referência de quantidades — ajustar ao orçamento disponível)
@@ -339,8 +334,8 @@ mas com metas de faturamento **revisadas para um patamar alcançável**:
 | Categoria | Itens | Qtd inicial sugerida | Observação |
 |---|---|---|---|
 | Canetas | Esferográficas, gel, marcador | 300-500 (não 1000 — ajustar ao cenário conservador) | Iniciar com curadoria menor, validar giro antes de escalar |
-| Cadernos/Planners ("Fases da Luz") | A5, capa especial | 100-150 por coleção | Conforme já detalhado no `PLANO_DE_NEGOCIO.md` original |
-| Adesivos (incl. Night Glow) | Folhas variadas | 300-500 | Produto de entrada, alto giro |
+| Cadernos/Planners (linha MIEL) | A5, capa especial | 100-150 | Conforme já detalhado no `PLANO_DE_NEGOCIO.md` original |
+| Adesivos | Folhas variadas | 300-500 | Produto de entrada, alto giro |
 | Acessórios (clipes, marcadores, elásticos) | Mix curado | 200-400 | Revenda inicial, marca própria a médio prazo |
 
 > A lista de 64k em estoque do material recebido (1000 canetas, 500 cadernos etc.) é compatível com o
@@ -353,21 +348,21 @@ mas com metas de faturamento **revisadas para um patamar alcançável**:
 
 | Fase | Meses | Marcos |
 |---|---|---|
-| **Fundação** | 1-2 | CNPJ/MEI, registro de marca (INPI), identidade visual final (paleta híbrida), 1ª produção (Aurora + Night Glow), cadastro fornecedores, site + Shopee + Instagram Shop |
+| **Fundação** | 1-2 | CNPJ/MEI, registro de marca MIEL (INPI), identidade visual final (paleta híbrida), 1ª produção da linha, cadastro fornecedores, site + Shopee + Instagram Shop |
 | **Lançamento** | 3-4 | Campanha de lançamento, parcerias com microinfluenciadoras, cadastro Mercado Livre + Elo7, primeiros 100-300 clientes |
-| **Crescimento** | 5-8 | Lançamento Golden Hour, expansão de catálogo, avaliação de migração MEI→ME, possível 1ª contratação (logística) |
+| **Crescimento** | 5-8 | Expansão de catálogo, avaliação de migração MEI→ME, possível 1ª contratação (logística) |
 | **Escala** | 9-12 | Avaliação de canais adicionais (Magalu/Amazon) **se** operação estável, participação em evento do setor (visita), avaliação de rodada de investimento com base em dados reais dos primeiros 9 meses |
 
 ---
 
 ## 11. Mensagem Final para Investidores (ajustada)
 
-LUEUR ocupa um espaço real e validável entre a papelaria de massa, o kawaii saturado e o premium importado —
-com um sistema de coleções ("Fases da Luz") que gera recorrência natural e um produto-assinatura tecnicamente
-diferenciado (linha Night Glow, com tinta fosforescente).
+MIEL ocupa um espaço real e validável entre a papelaria de massa, o kawaii saturado e o premium importado —
+com uma linha única e coerente construída sobre "Beleza Funcional para Vida Intencional", voltada a um público
+de profissionais criativas (arquitetas, designers, 25-45 anos) que hoje não encontra essa combinação no mercado
+brasileiro.
 
-Em vez de prometer uma curva de crescimento linear "perfeita", a LUEUR apresenta **3 cenários transparentes**:
+Em vez de prometer uma curva de crescimento linear "perfeita", a MIEL apresenta **3 cenários transparentes**:
 um caminho de validação orgânica (bootstrap), um caminho de aceleração moderada e um caminho de escala com aporte
 de R$ 350k — este último com retorno estimado em 18-24 meses, uso de capital detalhado e liberação em tranches
-vinculadas a marcos de execução. Essa transparência é, em si, parte do diferencial da marca: **clareza também é
-luz.**
+vinculadas a marcos de execução. Essa transparência é, em si, parte do diferencial da marca.

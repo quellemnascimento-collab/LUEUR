@@ -1,4 +1,4 @@
-# LUEUR — Branding Completo
+# MIEL — Branding Completo
 ### História da marca, posicionamento, personas, identidade visual e estratégia de marketing
 
 ---
@@ -6,34 +6,34 @@
 ## 1. História da Marca (Brand Story)
 
 > Este é um rascunho narrativo — a ideia é você personalizar com sua trajetória real. O esqueleto abaixo já está
-> alinhado ao conceito "Fases da Luz" e pode ser adaptado para o "Sobre" do site, vídeos de lançamento e pitch a
-> investidores.
+> alinhado ao posicionamento "Beleza Funcional para Vida Intencional" e pode ser adaptado para o "Sobre" do site,
+> vídeos de lançamento e pitch a investidores.
 
 ### 1.1 Narrativa-base
 
-> *"LUEUR nasceu de uma observação simples: nem todo mundo floresce de manhã.*
-> *Algumas das melhores ideias, decisões e momentos de clareza chegam à tarde, no fim do dia, ou tarde da noite —
-> quando o mundo desacelera e a sua cabeça finalmente tem espaço para pensar.*
-> *Mas quase toda papelaria do mercado fala a mesma língua: produtividade matinal, rotina perfeita, "comece o dia
-> com tudo". E quem não se encaixa nesse molde?*
-> *LUEUR existe para essas pessoas — para quem encontra sua luz em horários diferentes. Por isso organizamos
-> nossa marca em 'Fases da Luz': Aurora, Golden Hour, Dusk e Night Glow. Cada produto LUEUR tem um momento do dia
-> que é o seu lar — e a linha Night Glow, com tinta que brilha no escuro, é a prova física de que a sua luz não
-> precisa do sol para existir."*
+> *"MIEL nasceu de uma observação simples: beleza e função não deveriam estar em lados opostos.*
+> *Quase toda papelaria do mercado escolhe um lado — ou é toda estética e pouco funcional, ou é puramente
+> utilitária e sem alma. E quem busca os dois ao mesmo tempo, busca clareza E elegância no que organiza a própria
+> vida, fica sem opção boa.*
+> *MIEL existe para essas pessoas — para quem quer uma vida intencional, com beleza funcional em cada detalhe.
+> Cada produto MIEL nasce dessa intenção dupla: bonito o suficiente para inspirar, funcional o suficiente para
+> durar no uso diário real."*
 
 ### 1.2 Origem do nome
 
-- **LUEUR** (francês) = "lampejo de luz", "claridade suave que nasce no escuro".
-- Sonoridade internacional, curta, fácil de pronunciar em português, fácil de registrar como marca/domínio.
-- Conecta-se diretamente ao conceito central sem precisar de explicação longa.
+- **MIEL** (francês) = "mel" — doçura, riqueza sensorial, algo que se acumula com cuidado e tempo (como um favo).
+- Pronúncia: lê-se **"mi-él"** (à francesa) — não "mel". Curto, confiante, com sofisticação internacional desde
+  o primeiro contato com a marca.
+- Conecta-se ao universo simbólico da marca (camélia, cisne, pêssego japonês, Annecy) sem precisar de explicação
+  longa — doçura refinada, não infantilizada.
 
 ### 1.3 Missão, Visão e Valores
 
 | | |
 |---|---|
-| **Missão** | Transformar o ato de organizar, planejar e criar em um ritual de autoconhecimento — em qualquer horário do dia. |
-| **Visão** | Ser a papelaria de referência para quem se identifica com a estética e a filosofia de "brilho próprio", expandindo de coleções físicas para experiências (conteúdo, comunidade, eventos). |
-| **Valores** | (1) Autenticidade sem clichê motivacional; (2) Qualidade sensorial (papel, acabamento, textura); (3) Sustentabilidade aplicada, não decorativa; (4) Inclusão de ritmos — "não existe horário certo para brilhar". |
+| **Missão** | Transformar o ato de organizar, planejar e criar em um ritual de beleza funcional — produtos bonitos que funcionam de verdade no dia a dia. |
+| **Visão** | Ser a papelaria de referência para profissionais criativas que vivem com intenção — expandindo de uma linha física consistente para experiências (conteúdo, comunidade, eventos). |
+| **Valores** | (1) Autenticidade sem clichê motivacional; (2) Qualidade sensorial (papel, acabamento, textura); (3) Sustentabilidade aplicada, não decorativa; (4) Funcionalidade com beleza — nunca um sacrifício do outro. |
 
 ---
 
@@ -41,207 +41,231 @@
 
 ### 2.1 Statement de posicionamento
 
-> *Para criativos, planejadores e pessoas em processo de autoconhecimento que não se encaixam na "rotina matinal
-> perfeita" vendida pela papelaria tradicional, **LUEUR** é a papelaria de autor organizada em coleções por
-> momento do dia ("Fases da Luz"), que entrega qualidade sensorial premium e uma linha de assinatura
-> tecnicamente única (Night Glow, com tinta fosforescente) — diferente da papelaria de massa (sem identidade), do
-> kawaii saturado (infantilizado) e do importado premium (caro e distante).*
+> *Para arquitetas, designers e profissionais criativas que vivem com intenção e não aceitam escolher entre
+> bonito e funcional, **MIEL** é a papelaria de autor que entrega qualidade sensorial premium e design refinado
+> em uma linha única e coerente — diferente da papelaria de massa (sem identidade), do kawaii saturado
+> (infantilizado) e do importado premium (caro e distante).*
 
 ### 2.2 Pilares de marca
 
-1. **Luz como metáfora central** — não é sobre "ser produtivo", é sobre ter clareza no seu próprio tempo.
+1. **Beleza funcional como filosofia central** — não é "escolha um": todo produto precisa ser bonito E útil.
 2. **Sensorialidade** — papel, textura, acabamento e embalagem são parte da experiência, não acessórios.
-3. **Sistema, não coleção solta** — "Fases da Luz" cria uma lógica de colecionismo natural.
-4. **Diferenciação técnica real** — Night Glow não é "só estética", é um produto fisicamente diferente (brilha no
-   escuro).
+3. **Linha única e coerente** — em vez de coleções fragmentadas, MIEL é uma estética unificada, reconhecível em
+   qualquer produto.
+4. **Universo simbólico próprio** — camélia, cisne, pêssego japonês e Annecy dão à marca uma mitologia visual
+   discreta e sofisticada, sem depender de "fases" ou personagens.
 
 ### 2.3 Frases de posicionamento (para usar em diferentes contextos)
 
 | Contexto | Frase |
 |---|---|
-| Slogan principal | **"Cada um brilha na sua hora."** |
-| Assinatura de redes sociais/bio | **"O brilho que mora em cada detalhe."** |
-| Tagline curta (embalagem/logo) | "Papelaria de autor. Luz própria." |
-| Pitch de elevador | "LUEUR é a papelaria que organiza sua vida pelo seu relógio interno, não pelo relógio de todo mundo." |
-| Hashtag de comunidade | #BrilhoProprio |
-| Pronúncia da marca | "Lueur" lê-se **"luêr"** — usar essa explicação nos primeiros conteúdos/bio para fixar a pronúncia |
+| Slogan principal | **"Beleza Funcional para Vida Intencional."** |
+| Assinatura de redes sociais/bio | **"O doce no detalhe."** |
+| Tagline curta (embalagem/logo) | "Papelaria de autor. Vida intencional." |
+| Pitch de elevador | "MIEL é a papelaria que une beleza e função, para quem organiza a vida com intenção — não no automático." |
+| Hashtag de comunidade | #BelezaFuncional |
+| Pronúncia da marca | "Miel" lê-se **"mi-él"** — usar essa explicação, curta e confiante, nos primeiros conteúdos/bio para fixar a pronúncia |
 
 ---
 
-## 3. Personas
+## 3. Universo Simbólico MIEL
 
-### Persona 1 — "Marina, a Criativa Noturna" (público primário)
+Elementos recorrentes que dão à marca uma mitologia visual coerente — usados como motivos discretos (embalagem,
+fotografia, moodboard, pequenos detalhes gráficos), nunca como tema central forçado em todo produto.
 
-| | |
-|---|---|
-| **Idade/perfil** | 27 anos, designer freelancer / social media |
-| **Rotina** | Trabalha em horários flexíveis, mais produtiva à tarde/noite, usa bullet journal e cadernos de ideias |
-| **Dores** | Sente que toda papelaria "fala" com quem acorda 5h e faz yoga — não se identifica; busca produtos bonitos mas funcionais |
-| **Gatilhos de compra** | Estética em fotos/reels, "ver alguém parecido com ela" usando o produto, edição limitada |
-| **Onde está** | Instagram, Pinterest, TikTok — segue contas de journaling e desk setup |
-| **Mensagem-chave para ela** | "Sua melhor ideia pode chegar às 23h — e seu caderno está pronto pra ela." |
+| Categoria | Símbolo | Significado/uso |
+|---|---|---|
+| **Flora** | Camélia 🤍 | Elegância serena, recorrente em ilustrações sutis, papel de carta, selos |
+| **Animal** | Cisne 🦢 | Graça e precisão — usado em pequenos detalhes gráficos, marca-páginas, embalagens premium |
+| **Fruta** | Pêssego Japonês 🍑 | Doçura refinada — conecta-se diretamente ao tom "Brilho Pêssego" da paleta |
+| **Cidade-referência** | Annecy (França) 🇫🇷 | Inspiração estética geral — arquitetura, luz, cores de cidade europeia pequena e charmosa |
 
-### Persona 2 — "Bia, a Universitária Organizada" (público secundário)
+Esses elementos aparecem com moderação na fotografia de produto, embalagens e moodboard — como assinatura
+discreta, não como decoração obrigatória em cada peça.
 
-| | |
-|---|---|
-| **Idade/perfil** | 20 anos, estudante (vestibular/graduação) |
-| **Rotina** | Usa planner para estudos, gosta de decorar páginas, segue "studygram" |
-| **Dores** | Quer parecer organizada sem gastar muito; gosta de "ritual" de estudo à noite |
-| **Gatilhos de compra** | Preço acessível na entrada (adesivos, marcadores), kits, parcerias com influencers de estudo |
-| **Onde está** | TikTok, Pinterest, grupos de WhatsApp de "planner addicts" |
-| **Mensagem-chave para ela** | "Organize do seu jeito, no seu horário — sem pressão de ser 'pessoa matinal'." |
+---
 
-### Persona 3 — "Carla, a Empreendedora Consciente" (público de maior ticket)
+## 4. Personas
+
+### Persona 1 — "Marina, a Arquiteta Criativa" (público primário)
 
 | | |
 |---|---|
-| **Idade/perfil** | 35 anos, empreendedora/profissional liberal |
-| **Rotina** | Usa planner/diário para gestão pessoal e reflexão (terapia, metas, gratidão) |
-| **Dores** | Quer produtos com propósito (sustentabilidade), valoriza qualidade e durabilidade, não tempo para "garimpar" |
+| **Idade/perfil** | 32 anos, arquiteta com estúdio próprio |
+| **Rotina** | Agenda cheia entre projetos e clientes, valoriza objetos com design pensado, usa planner e cadernos de croqui |
+| **Dores** | Cansada de escolher entre papelaria "bonita mas inútil" ou "funcional mas sem graça"; quer ferramentas de trabalho que também sejam objeto de desejo |
+| **Gatilhos de compra** | Design refinado nas fotos, qualidade de material perceptível, edição com acabamento impecável |
+| **Onde está** | Instagram, Pinterest — segue contas de arquitetura, design de interiores e desk setup |
+| **Mensagem-chave para ela** | "Sua ferramenta de trabalho pode ser, também, a sua peça favorita da mesa." |
+
+### Persona 2 — "Bianca, a Designer Gráfica" (público secundário)
+
+| | |
+|---|---|
+| **Idade/perfil** | 28 anos, designer gráfica freelancer |
+| **Rotina** | Trabalha em horários flexíveis, faz curadoria visual constante (referências, moodboards, paletas) |
+| **Dores** | Sensível a qualquer detalhe de acabamento malfeito; quer papelaria que combine com sua estética profissional |
+| **Gatilhos de compra** | Paleta de cores coerente, embalagem cuidada, "ver alguém com bom gosto" usando o produto |
+| **Onde está** | Instagram, Pinterest, TikTok — segue contas de design e branding |
+| **Mensagem-chave para ela** | "Cada detalhe importa — no seu trabalho e no que você usa para criar." |
+
+### Persona 3 — "Carla, a Profissional Liberal Consciente" (público de maior ticket)
+
+| | |
+|---|---|
+| **Idade/perfil** | 41 anos, profissional liberal / empreendedora estabelecida |
+| **Rotina** | Usa planner/diário para gestão pessoal e profissional, valoriza rituais de organização e bem-estar |
+| **Dores** | Quer produtos com propósito (sustentabilidade), valoriza qualidade e durabilidade, não tem tempo para "garimpar" |
 | **Gatilhos de compra** | Storytelling de marca, embalagem premium, presente para si mesma ou para outras mulheres |
 | **Onde está** | Instagram, e-mail/WhatsApp (menos tempo em redes, mais em compra direta) |
-| **Mensagem-chave para ela** | "Um ritual de clareza, com a qualidade que você merece — e o impacto que você acredita." |
+| **Mensagem-chave para ela** | "Uma vida organizada com intenção — com a qualidade e a beleza que você já escolheu para o resto da sua vida." |
 
 ---
 
-## 4. Identidade Visual — Detalhamento
+## 5. Identidade Visual — Detalhamento
 
-### 4.1 Paleta (já definida)
+### 5.1 Paleta MIEL — versão final (6 cores)
 
-| Cor | Nome | Hex |
-|---|---|---|
-| Off-white rosado | Bruma | `#F2E9E4` |
-| Verde-sálvia | Folha Suave | `#A9AD8E` |
-| Rosa-pó | Pó de Luz | `#E8D2D0` |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` |
-| Dourado-amadeirado | Âmbar | `#A4824A` |
-| Marrom-chocolate | Terra Noturna | `#4A3624` |
+| Cor | Nome | Hex | Uso |
+|---|---|---|---|
+| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
+| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento natureza/sustentabilidade |
+| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
+| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta-se ao motivo "Pêssego Japonês" |
+| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping, ícones |
+| Marrom-chocolate | Terra Noturna | `#4A3624` | Tipografia/logo principal |
 
-### 4.2 Tipografia
+> Nota de transição: a paleta é majoritariamente herdada da identidade anterior (cores que já funcionavam bem e
+> não eram específicas do antigo conceito de "fases"). Apenas dois nomes foram atualizados para refletir o
+> reposicionamento: "Bruma" → **Miel Cream** (mesmo hex, `#F2E9E4` — já era um creme funcional, sem necessidade de
+> mudar o tom) e "Âmbar" → **Miel Dourado** (mesmo hex, `#A4824A` — já é literalmente uma cor mel/dourada).
 
-- **Display/Títulos**: Playfair Display (serifada editorial — transmite "diário", elegância atemporal).
+### 5.2 Tipografia
+
+- **Display/Títulos**: Playfair Display (serifada editorial — transmite elegância atemporal).
 - **Corpo/UX**: Inter (legibilidade em telas, neutra, moderna).
-- **Uso**: títulos sempre em Terra Noturna (`#4A3624`) ou Âmbar (`#A4824A`) sobre fundo Bruma; nunca preto puro.
+- **Uso**: títulos sempre em Terra Noturna (`#4A3624`) ou Miel Dourado (`#A4824A`) sobre fundo Miel Cream; nunca
+  preto puro.
 
-### 4.3 Logotipo — Versão Final
+### 5.3 Logotipo — Versão Final
 
-Logo definido pela fundadora: wordmark **"Lueur"** em Playfair Display (caixa baixa, com maiúscula inicial),
-em tom Terra Noturna sobre fundo Bruma, com pequenos brilhos/sparkles em Âmbar ao redor das letras (no canto
-superior esquerdo do "L" e entre as letras do "u" e "r"), e a assinatura **"PAPELARIA E ATELIÊ"** em caixa alta,
-Inter, espaçada, abaixo do wordmark.
+Logo mantém a construção já validada, apenas com o wordmark atualizado: **"Miel"** em Playfair Display (caixa
+baixa, com maiúscula inicial), em tom Terra Noturna sobre fundo Miel Cream, com pequenos brilhos/sparkles em
+Miel Dourado ao redor das letras (no canto superior esquerdo do "M" e entre as letras do "i" e "e"), e a
+assinatura **"PAPELARIA E ATELIÊ"** em caixa alta, Inter, espaçada, abaixo do wordmark.
 
-- **Wordmark**: "Lueur" em Playfair Display, caixa baixa com inicial maiúscula — mais acolhedor/editorial que a
-  versão toda em caixa alta testada anteriormente.
-- **Glifos de luz**: pequenos sparkles (✦/✧) em Âmbar posicionados de forma assimétrica ao redor do wordmark —
-  substitui o conceito de "um único glifo no ponto do i".
-- **Assinatura "Papelaria e Ateliê"**: reforça o posicionamento de marca de autor/produção própria (não apenas
-  revenda) — manter essa assinatura em toda comunicação institucional (site, embalagens, assinatura de e-mail).
+- **Wordmark**: "Miel" em Playfair Display, caixa baixa com inicial maiúscula — mantém o tom acolhedor/editorial
+  da versão anterior.
+- **Glifos**: pequenos sparkles (✦/✧) em Miel Dourado posicionados de forma assimétrica ao redor do wordmark —
+  glifo mantido por decisão da fundadora (sem substituição por coração ou outro símbolo).
+- **Assinatura "Papelaria e Ateliê"**: reforça o posicionamento de marca de autor/produção própria — manter essa
+  assinatura em toda comunicação institucional (site, embalagens, assinatura de e-mail).
 - **Versões**:
   1. Logo completo (wordmark + sparkles + assinatura) — uso principal (site, packaging, perfil social).
   2. Wordmark + sparkles, sem assinatura — aplicações menores (favicon grande, selos).
   3. Apenas sparkles (✦) — ícone de app, marca de água, elemento gráfico de apoio.
-- **Cores do logo**: versão principal em Terra Noturna + sparkles em Âmbar sobre fundo Bruma; versão reversa em
-  Bruma + sparkles em Âmbar sobre fundo Terra Noturna (para a linha Night Glow/embalagens escuras — os sparkles
-  nessa versão podem usar tinta fosforescente real no packaging físico).
+- **Cores do logo**: versão principal em Terra Noturna + sparkles em Miel Dourado sobre fundo Miel Cream; versão
+  reversa em Miel Cream + sparkles em Miel Dourado sobre fundo Terra Noturna (para embalagens escuras/edições
+  especiais).
 
-### 4.4 Fotografia — Diretrizes
+### 5.4 Fotografia — Diretrizes
 
 - **Luz**: sempre golden hour, luz de vela/abajur ou luz de janela lateral — nunca luz de estúdio branca/dura.
-- **Composição**: mesas de trabalho com textura (madeira, linho), produtos em uso (mão escrevendo, página aberta),
-  ambientes "entre luzes" (início de noite, fim de tarde).
-- **Linha Night Glow**: fotos em ambiente escuro, mostrando o efeito fosforescente real — vídeos/Reels são
-  essenciais aqui (o produto "performa" no escuro).
+- **Composição**: mesas de trabalho com textura (madeira, linho), produtos em uso (mão escrevendo, página
+  aberta), ambientes que evocam Annecy (arquitetura europeia discreta, água, luz suave).
+- **Motivos simbólicos**: presença leve e ocasional de camélia, cisne ou pêssego japonês como prop/composição —
+  nunca em todas as fotos, apenas como assinatura recorrente e sutil.
 - **Edição**: tons quentes, contraste suave, nunca saturação artificial — a paleta da marca deve aparecer
   naturalmente nas fotos (roupas, fundos, props).
 
-### 4.5 Packaging e materiais de marca
+### 5.5 Packaging e materiais de marca
 
-- Caixas em papel kraft ou em tom Bruma, selo circular com o glifo ✦ em Âmbar ou dourado foil.
-- Cartão de agradecimento com a frase da "fase da luz" da coleção.
-- Para Night Glow: embalagem em Terra Noturna com detalhes que brilham no escuro (impressão fosforescente no selo).
+- Caixas em papel kraft ou em tom Miel Cream, selo circular com o glifo ✦ em Miel Dourado ou dourado foil.
+- Cartão de agradecimento com a frase "Beleza Funcional para Vida Intencional" ou um detalhe do universo
+  simbólico (ex.: ilustração discreta de camélia).
+- Edições especiais: embalagem em Terra Noturna com selo em foil dourado — usada para presentes/itens premium.
 
-### 4.6 Padrões/texturas (elementos gráficos de apoio)
+### 5.6 Padrões/texturas (elementos gráficos de apoio)
 
-- **Gradientes de céu**: Bruma → Brilho Pêssego → Âmbar (para Aurora/Golden Hour); Folha Suave → Terra Noturna
-  (para Dusk/Night Glow) — usados em fundos de Stories, capas de produto, embalagens.
+- **Gradiente MIEL**: Miel Cream → Brilho Pêssego → Miel Dourado — usado em fundos de Stories, capas de produto,
+  embalagens.
 - **Textura de papel**: leve grão/textura de papel reciclado como elemento recorrente (reforça sensorialidade e
   sustentabilidade).
 
 ---
 
-## 5. Estratégia de Marketing
+## 6. Estratégia de Marketing
 
-### 5.1 Pilares de conteúdo (consolidado)
+### 6.1 Pilares de conteúdo (consolidado)
 
-1. **Ritual da Luz** — conteúdo recorrente mostrando o uso do produto no "momento certo" (manhã/tarde/noite,
-   conforme a fase).
-2. **Bastidores/Processo** — produção, escolha de papéis, testes da tinta Night Glow.
+1. **Beleza Funcional** — conteúdo recorrente mostrando o produto em uso real, destacando função E estética
+   juntas.
+2. **Bastidores/Processo** — produção, escolha de papéis, curadoria de paleta.
 3. **Educacional** — métodos de planner, journaling, organização "sem culpa".
-4. **UGC/Comunidade** — repost de clientes com #BrilhoProprio.
-5. **Drops** — lançamento de cada "fase da luz" como evento (contagem regressiva, sneak peek, quiz "qual fase é
-   você?").
+4. **UGC/Comunidade** — repost de clientes com #BelezaFuncional.
+5. **Lançamentos** — drops de novos produtos dentro da linha única MIEL (sem sistema de fases), com narrativa
+   ligada ao universo simbólico quando fizer sentido.
 
-### 5.2 Calendário de lançamento — Primeiros 90 dias
+### 6.2 Calendário de lançamento — Primeiros 90 dias
 
 | Semana | Foco | Ações |
 |---|---|---|
-| 1-2 | Teaser de marca | Perfis criados, bio com slogan, 1º post de manifesto de marca ("por que LUEUR existe"), quiz "qual fase da luz é você?" |
-| 3-4 | Pré-lançamento Aurora | Bastidores de produção, lista VIP no WhatsApp, parcerias com 2-3 microinfluenciadoras (sorteio de pré-acesso) |
-| 5-6 | Lançamento Aurora | Campanha paga (Instagram/TikTok Ads), conteúdo de unboxing, ativação da lista VIP |
-| 7-8 | Consolidação | Conteúdo educacional (como usar o planner Aurora), primeiros depoimentos/UGC |
-| 9-10 | Teaser Night Glow | Vídeos "brilha no escuro" (alto potencial de viralização), parcerias com criadores de conteúdo noturno/ASMR |
-| 11-12 | Lançamento Night Glow | Campanha paga focada em vídeo, ativação cruzada com clientes da Aurora (oferta de coleção) |
+| 1-2 | Teaser de marca | Perfis criados, bio com slogan, 1º post de manifesto de marca ("por que MIEL existe") |
+| 3-4 | Pré-lançamento | Bastidores de produção, lista VIP no WhatsApp, parcerias com 2-3 microinfluenciadoras (sorteio de pré-acesso) |
+| 5-6 | Lançamento da linha | Campanha paga (Instagram/TikTok Ads), conteúdo de unboxing, ativação da lista VIP |
+| 7-8 | Consolidação | Conteúdo educacional (como usar os produtos no dia a dia), primeiros depoimentos/UGC |
+| 9-10 | Expansão de catálogo | Vídeos de bastidores de novos produtos, parcerias com criadoras de conteúdo de design/arquitetura |
+| 11-12 | Reforço de marca | Campanha paga focada em vídeo, ativação cruzada com clientes existentes (oferta de novidades) |
 
-### 5.3 Estratégia de influenciadores
+### 6.3 Estratégia de influenciadores
 
-- **Microinfluenciadoras (5-20k seguidores)**: nicho de journaling/planner/estudo — parceria por permuta + comissão
-  nos 2 primeiros meses; comissão + fee a partir do mês 3.
-- **Critério de seleção**: estética alinhada à paleta LUEUR (evitar contas 100% "pastel kawaii" ou 100% "dark
-  aesthetic" — buscar o meio-termo "acolhedor").
-- **Formato prioritário**: Reels/TikToks "ritual da noite" e "unboxing ASMR" — maior potencial de alcance orgânico.
+- **Microinfluenciadoras (5-20k seguidores)**: nicho de design, arquitetura, journaling/planner — parceria por
+  permuta + comissão nos 2 primeiros meses; comissão + fee a partir do mês 3.
+- **Critério de seleção**: estética alinhada à paleta MIEL e ao público de profissionais criativas 25-45 anos
+  (evitar contas 100% "pastel kawaii" infantilizado).
+- **Formato prioritário**: Reels/TikToks "desk setup" e "unboxing" — maior potencial de alcance orgânico.
 
-### 5.4 Mídia paga
+### 6.4 Mídia paga
 
 - Início: R$ 800-1.200/mês (Instagram/TikTok Ads), focado em **tráfego para o site** e **retargeting** de quem
   interagiu com Reels.
-- Criativos prioritários: vídeo do efeito Night Glow (alto "stopping power"), carrosséis "qual fase da luz é
-  você?" (gera salvamentos/compartilhamentos).
+- Criativos prioritários: vídeo de unboxing/acabamento (alto "stopping power"), carrosséis "beleza funcional —
+  como organizar com elegância" (gera salvamentos/compartilhamentos).
 
-### 5.5 E-mail/WhatsApp (relacionamento)
+### 6.5 E-mail/WhatsApp (relacionamento)
 
-- Lista VIP via WhatsApp para pré-venda de drops e restock — criada já no pré-lançamento.
+- Lista VIP via WhatsApp para pré-venda de lançamentos e restock — criada já no pré-lançamento.
 - Fluxo de e-mail pós-compra: confirmação → dica de uso do produto (conteúdo educacional) → pedido de
-  depoimento/UGC → oferta da próxima "fase da luz".
+  depoimento/UGC → oferta de novos produtos da linha.
 
 ---
 
-## 6. Moodboard
+## 7. Moodboard
 
 Foi criado um moodboard visual em HTML (`moodboard.html`) com a paleta, tipografia e direções de imagem aplicadas —
 abra no navegador para visualizar. Além disso, veja abaixo um guia de pesquisa para montar boards complementares no
 Pinterest/Instagram.
 
-### 6.1 Termos de busca recomendados (Pinterest/Google Imagens)
+### 7.1 Termos de busca recomendados (Pinterest/Google Imagens)
 
 - "warm minimalist stationery aesthetic"
 - "golden hour desk setup"
-- "glow in the dark journal"
+- "Annecy France architecture aesthetic"
 - "sage and terracotta color palette branding"
 - "editorial stationery photography"
 - "cozy autumn flatlay notebook"
-- "aesthetic night journaling"
+- "camellia flower aesthetic minimal"
 
-### 6.2 Contas de referência para observar (estética, não copiar)
+### 7.2 Contas de referência para observar (estética, não copiar)
 
 - Marcas/contas citadas nos planos anteriores: Papel de Pato, Tropix/Mansão Maker, Yoseka Stationery, Archer & Olive,
   Poketo, Papier.
 - Buscar também contas de **fotografia de still life em luz quente** (não necessariamente de papelaria) para
-  referência de iluminação — ex: contas de café/ambientes aconchegantes costumam ter a luz exata que a LUEUR busca.
+  referência de iluminação — ex: contas de café/ambientes aconchegantes costumam ter a luz exata que a MIEL busca.
 
-### 6.3 Estrutura sugerida do board (Pinterest)
+### 7.3 Estrutura sugerida do board (Pinterest)
 
-1. **Board "LUEUR — Paleta & Texturas"**: prints de cores, papéis, materiais.
-2. **Board "LUEUR — Fotografia"**: referências de luz/composição.
-3. **Board "LUEUR — Tipografia & Logo"**: referências de wordmarks editoriais e glifos minimalistas.
-4. **Board "LUEUR — Night Glow"**: referências de produtos fosforescentes/efeitos de brilho no escuro.
+1. **Board "MIEL — Paleta & Texturas"**: prints de cores, papéis, materiais.
+2. **Board "MIEL — Fotografia"**: referências de luz/composição.
+3. **Board "MIEL — Tipografia & Logo"**: referências de wordmarks editoriais e glifos minimalistas.
+4. **Board "MIEL — Universo Simbólico"**: referências de camélia, cisne, pêssego japonês e Annecy.

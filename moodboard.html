@@ -2,21 +2,21 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>LUEUR — Moodboard</title>
+<title>MIEL — Moodboard</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bruma: #F2E9E4;
+    --miel-cream: #F2E9E4;
     --folha: #A9AD8E;
     --po-de-luz: #E8D2D0;
     --pessego: #F1C6B3;
-    --ambar: #A4824A;
+    --dourado: #A4824A;
     --terra: #4A3624;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: 'Inter', sans-serif;
-    background: var(--bruma);
+    background: var(--miel-cream);
     color: var(--terra);
     padding: 40px;
   }
@@ -30,12 +30,12 @@
     letter-spacing: 6px;
     color: var(--terra);
   }
-  h1 .glow { color: var(--ambar); }
+  h1 .glow { color: var(--dourado); }
   .tagline {
     font-size: 16px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    color: var(--ambar);
+    color: var(--dourado);
     margin-top: 8px;
   }
   .grid {
@@ -59,15 +59,15 @@
   .swatch { flex-direction: column; font-family: 'Inter'; font-weight: 600; }
   .swatch span.hex { font-weight: 300; font-size: 12px; margin-top: 6px; opacity: .8; }
 
-  .bruma { background: var(--bruma); border: 1px solid var(--ambar); color: var(--terra); }
-  .folha { background: var(--folha); color: var(--bruma); }
+  .cream { background: var(--miel-cream); border: 1px solid var(--dourado); color: var(--terra); }
+  .folha { background: var(--folha); color: var(--miel-cream); }
   .po { background: var(--po-de-luz); color: var(--terra); }
   .pessego { background: var(--pessego); color: var(--terra); }
-  .ambar { background: var(--ambar); color: var(--bruma); }
-  .terra { background: var(--terra); color: var(--bruma); }
+  .dourado { background: var(--dourado); color: var(--miel-cream); }
+  .terra { background: var(--terra); color: var(--miel-cream); }
 
-  .gradient-aurora {
-    background: linear-gradient(135deg, var(--bruma), var(--pessego), var(--ambar));
+  .gradient-palette {
+    background: linear-gradient(135deg, var(--miel-cream), var(--pessego), var(--dourado));
     grid-column: span 2;
     color: var(--terra);
     font-family: 'Playfair Display', serif;
@@ -77,14 +77,14 @@
     background: linear-gradient(135deg, var(--folha), var(--terra));
     grid-column: span 2;
     grid-row: span 2;
-    color: var(--bruma);
+    color: var(--miel-cream);
     font-family: 'Playfair Display', serif;
     font-size: 22px;
     flex-direction: column;
   }
   .glow-dot {
     width: 14px; height: 14px; border-radius: 50%;
-    background: radial-gradient(circle, #fff8e7, var(--ambar));
+    background: radial-gradient(circle, #fff8e7, var(--dourado));
     box-shadow: 0 0 18px 6px rgba(244, 211, 94, 0.6);
     margin-top: 10px;
   }
@@ -97,7 +97,7 @@
     border: 1px solid var(--po-de-luz);
   }
   .type-sample .title { font-family: 'Playfair Display', serif; font-size: 26px; color: var(--terra); }
-  .type-sample .body { font-family: 'Inter', sans-serif; font-size: 13px; color: var(--ambar); margin-top: 6px; }
+  .type-sample .body { font-family: 'Inter', sans-serif; font-size: 13px; color: var(--dourado); margin-top: 6px; }
 
   .logo-cell {
     background: white;
@@ -113,20 +113,28 @@
     position: relative;
   }
   .logo-cell .word .star {
-    color: var(--ambar);
+    color: var(--dourado);
     font-size: 16px;
     position: absolute;
   }
   .logo-cell .word .star.s1 { top: -14px; left: -10px; font-size: 12px; }
   .logo-cell .word .star.s2 { top: -6px; right: 28px; }
   .logo-cell .word .star.s3 { bottom: 6px; right: -6px; font-size: 12px; }
-  .logo-cell .sub { margin-top: 14px; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: var(--ambar); }
+  .logo-cell .sub { margin-top: 14px; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: var(--dourado); }
 
   .texture {
-    background-image: repeating-linear-gradient(45deg, var(--po-de-luz) 0 2px, var(--bruma) 2px 14px);
+    background-image: repeating-linear-gradient(45deg, var(--po-de-luz) 0 2px, var(--miel-cream) 2px 14px);
     color: var(--terra);
     font-size: 12px;
   }
+
+  .symbol-cell {
+    background: white;
+    border: 1px solid var(--po-de-luz);
+    flex-direction: column;
+    font-size: 13px;
+  }
+  .symbol-cell .emoji { font-size: 28px; margin-bottom: 6px; }
 
   .mood-text {
     grid-column: span 4;
@@ -144,29 +152,29 @@
 </head>
 <body>
   <header>
-    <h1><span class="glow">✧</span> Lueur <span class="glow">✦</span></h1>
-    <div class="tagline">Cada um brilha na sua hora</div>
+    <h1><span class="glow">✧</span> Miel <span class="glow">✦</span></h1>
+    <div class="tagline">Beleza Funcional para Vida Intencional</div>
   </header>
 
   <div class="grid">
     <div class="cell logo-cell">
       <div class="word">
-        <span class="star s1">✧</span>Lueur<span class="star s2">✦</span><span class="star s3">✧</span>
+        <span class="star s1">✧</span>Miel<span class="star s2">✦</span><span class="star s3">✧</span>
       </div>
       <div class="sub">Papelaria e Ateliê</div>
     </div>
 
-    <div class="cell gradient-aurora">Fase Aurora<br>+ Golden Hour</div>
+    <div class="cell gradient-palette">Paleta MIEL</div>
 
-    <div class="cell swatch bruma">Bruma <span class="hex">#F2E9E4</span></div>
-    <div class="cell swatch ambar">Âmbar <span class="hex">#A4824A</span></div>
+    <div class="cell swatch cream">Miel Cream <span class="hex">#F2E9E4</span></div>
+    <div class="cell swatch dourado">Miel Dourado <span class="hex">#A4824A</span></div>
 
     <div class="cell swatch po">Pó de Luz <span class="hex">#E8D2D0</span></div>
     <div class="cell swatch pessego">Brilho Pêssego <span class="hex">#F1C6B3</span></div>
     <div class="cell swatch folha">Folha Suave <span class="hex">#A9AD8E</span></div>
 
     <div class="cell gradient-night">
-      Fase Night Glow
+      Tom Profundo
       <div class="glow-dot"></div>
     </div>
 
@@ -178,11 +186,16 @@
     <div class="cell texture">Textura de papel reciclado<br>(grão sutil em toda a marca)</div>
     <div class="cell swatch terra">Terra Noturna <span class="hex">#4A3624</span></div>
 
+    <div class="cell symbol-cell"><span class="emoji">🤍</span>Camélia</div>
+    <div class="cell symbol-cell"><span class="emoji">🦢</span>Cisne</div>
+    <div class="cell symbol-cell"><span class="emoji">🍑</span>Pêssego Japonês</div>
+    <div class="cell symbol-cell"><span class="emoji">🇫🇷</span>Annecy, França</div>
+
     <div class="cell mood-text">
       <strong>Direção de fotografia</strong>
       Luz quente e baixa (golden hour, vela, abajur) · mesas com textura (madeira, linho) · mãos escrevendo,
-      páginas abertas · ambientes "entre luzes" · linha Night Glow fotografada no escuro, mostrando o brilho real
-      do produto · edição em tons quentes, sem saturação artificial.
+      páginas abertas · presença discreta dos motivos simbólicos MIEL (camélia, cisne, pêssego japonês, Annecy)
+      como acentos, nunca como tema central · edição em tons quentes, sem saturação artificial.
     </div>
   </div>
 </body>

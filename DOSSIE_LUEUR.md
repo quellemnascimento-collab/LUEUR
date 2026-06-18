@@ -1,4 +1,4 @@
-# Dossiê LUEUR Papelaria
+# Dossiê MIEL Papelaria
 ### Documento executivo consolidado — visão de negócio, marca, operação e finanças
 
 ---
@@ -7,12 +7,12 @@
 
 | Campo | Informação |
 |---|---|
-| **Razão/Nome Fantasia** | Lueur — Papelaria e Ateliê |
+| **Razão/Nome Fantasia** | Miel — Papelaria e Ateliê |
 | **CNPJ** | 65.723.134/0001-86 |
 | **Setor** | Comércio varejista de papelaria de design (D2C + marketplaces) |
 | **CNAE principal recomendado** | 47.61-0/03 — Comércio varejista de artigos de papelaria |
 | **CNAE secundário recomendado** | 47.89-0/05 — Comércio varejista de outros produtos não especificados |
-| **Conceito de marca** | "Cada um brilha na sua hora" — sistema de coleções "Fases da Luz" (Aurora, Golden Hour, Dusk, Night Glow) |
+| **Conceito de marca** | "Beleza Funcional para Vida Intencional" — linha única e coerente (sem sistema de fases/coleções) |
 | **Posicionamento** | Premium acessível — entre a papelaria de massa (Kalunga/Tilibra) e o importado premium (Muji/Kokuyo) |
 | **Ticket médio-alvo** | R$ 75 – R$ 110 |
 
@@ -23,10 +23,10 @@
 
 ## 1. Visão de Negócio (resumo)
 
-LUEUR ocupa o espaço entre três zonas do mercado brasileiro de papelaria: a papelaria de massa (preço baixo, sem
+MIEL ocupa o espaço entre três zonas do mercado brasileiro de papelaria: a papelaria de massa (preço baixo, sem
 identidade), a papelaria "kawaii" saturada, e o premium importado (caro, sem conexão local). A proposta de valor é
-uma papelaria de autor com sistema de coleções emocionais ("Fases da Luz") e uma linha de assinatura tecnicamente
-diferenciada — **Night Glow**, com tinta fosforescente que brilha no escuro.
+uma papelaria de autor com uma linha única e coerente, construída sobre "Beleza Funcional para Vida Intencional" —
+voltada a profissionais criativas (arquitetas, designers) que não aceitam escolher entre estética e função.
 
 Documento completo: `PLANO_DE_NEGOCIO_V2.md` (mercado, concorrentes, branding, marketplaces, eventos, fornecedores,
 projeções financeiras em 3 cenários).
@@ -35,12 +35,12 @@ projeções financeiras em 3 cenários).
 
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
-| Off-white rosado | Bruma | `#F2E9E4` | Fundo principal, embalagens |
+| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens |
 | Verde-sálvia | Folha Suave | `#A9AD8E` | Acento natureza/sustentabilidade |
-| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, coleção Aurora |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques de coleção, capas Aurora |
-| Dourado-amadeirado | Âmbar | `#A4824A` | Detalhes premium, hot stamping |
-| Marrom-chocolate | Terra Noturna | `#4A3624` | Tipografia/logo + base da linha Night Glow |
+| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
+| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta ao motivo Pêssego Japonês |
+| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping |
+| Marrom-chocolate | Terra Noturna | `#4A3624` | Tipografia/logo principal |
 
 ---
 
@@ -100,7 +100,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 
 ### 3.3 Planilhas de controle (uso diário)
 
-- `planilhas/estoque.csv` — controle de SKU, custo, preço, quantidade, fornecedor, coleção/"fase da luz".
+- `planilhas/estoque.csv` — controle de SKU, custo, preço, quantidade, fornecedor, linha temática.
 - `planilhas/fluxo_caixa_projecao.csv` — projeção mês a mês (espinha dorsal financeira dos 6 primeiros meses).
 - `planilhas/fluxo_caixa_registro.csv` — registro real de entradas/saídas (preencher diariamente/semanalmente).
 
@@ -124,9 +124,9 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 
 | Fase | Meses | Marcos |
 |---|---|---|
-| Fundação | 1-2 | Confirmar regime tributário, registro de marca (INPI), identidade visual final, 1ª produção (Aurora + Night Glow), cadastro de fornecedores, site + Shopee + Instagram Shop |
+| Fundação | 1-2 | Confirmar regime tributário, registro de marca (INPI), identidade visual final, 1ª produção da linha MIEL, cadastro de fornecedores, site + Shopee + Instagram Shop |
 | Lançamento | 3-4 | Campanha de lançamento, parcerias com microinfluenciadoras, cadastro Mercado Livre + Elo7, primeiros 100-300 clientes |
-| Crescimento | 5-8 | Lançamento Golden Hour, expansão de catálogo, avaliação de migração de regime tributário, 1ª contratação (logística) |
+| Crescimento | 5-8 | Expansão de catálogo, avaliação de migração de regime tributário, 1ª contratação (logística) |
 | Escala | 9-12 | Avaliação de canais adicionais, participação em evento do setor (visita), avaliação de rodada de investimento com dados reais |
 
 ---
@@ -138,7 +138,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 | `PLANO_DE_NEGOCIO_V2.md` | Plano de negócio completo (mercado, concorrentes, branding, digital, marketplaces, eventos, fornecedores, projeções financeiras em 3 cenários) — **documento de referência principal** |
 | `BRANDING.md` | História da marca, posicionamento, personas, identidade visual, estratégia de marketing |
 | `REDES_SOCIAIS.md` | Setup de perfis, bios, calendário de conteúdo, banco de ideias (30 dias) e métricas |
-| `PRODUTOS_VIRAIS_TIKTOK.md` | 22 produtos virais validados para TikTok Shop (papelaria + costura) com ângulo Lueur, ticket e estratégia de conteúdo |
+| `PRODUTOS_VIRAIS_TIKTOK.md` | 22 produtos virais validados para TikTok Shop (papelaria + costura) com ângulo Miel, ticket e estratégia de conteúdo |
 | `ATELIE_PERSONALIZACAO.md` | Linha de personalização/encomendas (Ateliê) — produtos, operação, precificação, marketing e impacto financeiro |
 | `LINHA_PAPELARIA_FINA.md` | Catálogo estratégico de papelaria fina (24 produtos, 5 eixos), benchmark Criare, tendências 2026 e programa de fidelidade |
 | `CATALOGO_PRODUTOS.md` | **Catálogo oficial real** — 16 SKUs (planejamento + organização + ateliê), specs de produção, preços, margens e bundles |
@@ -148,7 +148,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 | `planilhas/estoque.csv` | Controle de estoque |
 | `planilhas/fluxo_caixa_projecao.csv` | Projeção financeira mês a mês |
 | `planilhas/fluxo_caixa_registro.csv` | Registro real de fluxo de caixa |
-| `DOSSIE_LUEUR.md` | Este documento — visão executiva consolidada |
+| `DOSSIE_LUEUR.md` | Este documento — visão executiva consolidada (mantém o nome de arquivo original por continuidade) |
 
 ---
 
@@ -156,6 +156,8 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 
 1. Confirmar regime tributário do CNPJ `65.723.134/0001-86` com contador (MEI ou ME) e CNAEs ativos.
 2. Preencher `planilhas/estoque.csv` com o estoque atual real.
-3. Iniciar registro de marca "LUEUR" no INPI em nome do CNPJ acima.
-4. Definir as 2 primeiras "fases da luz" para o lançamento (recomendação: Aurora + Night Glow).
+3. Iniciar registro de marca "MIEL" no INPI em nome do CNPJ acima — **boa notícia**: como o registro do nome
+   anterior ainda não tinha sido iniciado, não há nenhum processo a desfazer; o timing do rebranding é ideal
+   para já entrar com o pedido direto no nome definitivo.
+4. Definir os primeiros produtos de lançamento da linha única MIEL.
 5. Configurar site (Nuvemshop) + Shopee + Instagram Shop.

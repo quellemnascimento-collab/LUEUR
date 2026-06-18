@@ -1,12 +1,13 @@
-# LUEUR — Espinha Dorsal da Empresa
+# MIEL — Espinha Dorsal da Empresa
 ### Estrutura jurídica, organizacional, orçamento real (6 meses) e plano de contratação
 
-> Este documento é o **manual operacional** da LUEUR: o que fazer juridicamente para começar amanhã, como a
+> Este documento é o **manual operacional** da MIEL: o que fazer juridicamente para começar amanhã, como a
 > empresa se organiza por setores, quanto custa de fato operar nos próximos 6 meses, e quantas pessoas você
 > realmente precisa contratar — e quando.
 
-**CNPJ ativo**: `65.723.134/0001-86` — **LUEUR Papelaria** (já constituída). A partir daqui, o foco é
-enquadramento, regularização e abertura de canais com base nesse CNPJ.
+**CNPJ ativo**: `65.723.134/0001-86` — **Miel — Papelaria e Ateliê** (já constituída, nome fantasia atualizado de
+"Lueur" para "Miel"; a titularidade do CNPJ não muda). A partir daqui, o foco é enquadramento, regularização e
+abertura de canais com base nesse CNPJ.
 
 ---
 
@@ -17,7 +18,7 @@ enquadramento, regularização e abertura de canais com base nesse CNPJ.
 Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual regime ele foi aberto**:
 
 - **Se MEI**: limite de receita bruta de **R$ 81.000/ano** (~R$ 6.750/mês em média). Pelas projeções do plano de
-  negócio, a LUEUR deve **ultrapassar esse limite entre o mês 6 e o mês 9** — planejar desde já a migração para
+  negócio, a MIEL deve **ultrapassar esse limite entre o mês 6 e o mês 9** — planejar desde já a migração para
   **ME (Microempresa) — Simples Nacional**, via desenquadramento do MEI, quando:
   - a receita acumulada projetada do ano ultrapassar ~R$ 70.000 (margem de segurança antes do limite), **ou**
   - for necessário contratar funcionário CLT formalmente (MEI permite só 1 funcionário, com regras restritas).
@@ -35,7 +36,8 @@ Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual r
      adesivos, kits, brindes) e, se aplicável, 82.99-7/99 (personalização).
    - Se algum CNAE necessário estiver faltando, solicitar **inclusão de atividade** junto à Receita/Junta Comercial
      (pode ser feito pelo Portal do Empreendedor se for MEI, ou via contador se for ME).
-2. **Nome fantasia**: confirmar se "LUEUR Papelaria" está registrado no CNPJ (alterar se necessário).
+2. **Nome fantasia**: atualizar o registro no CNPJ de "Lueur Papelaria" para "Miel — Papelaria e Ateliê" junto à
+   Receita/Junta Comercial.
 3. **Conta PJ**: abrir/confirmar conta PJ digital vinculada ao CNPJ `65.723.134/0001-86` (Nubank PJ, Inter PJ, C6 PJ
    — gratuitas e 100% online), caso ainda não exista.
 4. **Certificado digital e-CNPJ A1**: necessário para emissão de NF-e em alguns estados e exigido por marketplaces
@@ -48,14 +50,14 @@ Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual r
 | Item | Prazo recomendado | Observação |
 |---|---|---|
 | Alvará de funcionamento (se houver espaço físico/estoque fora de casa) | até 30 dias | Dispensável se operação 100% home office, mas confirmar na prefeitura |
-| Registro de marca (INPI) | iniciar processo na 1ª semana | Processo demora meses, mas **deve ser iniciado logo** para proteger o nome "LUEUR" — use o CNPJ `65.723.134/0001-86` como titular do pedido |
+| Registro de marca (INPI) | iniciar processo na 1ª semana | Processo demora meses, mas **deve ser iniciado logo** para proteger o nome "MIEL" — use o CNPJ `65.723.134/0001-86` como titular do pedido. Como o registro do nome anterior ainda não havia sido iniciado, não há nada a desfazer: é o timing ideal para entrar direto com o nome definitivo |
 | Inscrição estadual / emissor de NF-e | até 15 dias (se ainda não houver) | Necessário para vender em marketplaces grandes (Mercado Livre, Amazon exigem NF) |
-| Licença sanitária/ambiental | normalmente não aplicável a papelaria | Confirmar se algum insumo (tintas fosforescentes da linha Night Glow) exige declaração |
+| Licença sanitária/ambiental | normalmente não aplicável a papelaria | Confirmar se algum insumo de acabamento especial exige declaração |
 | Contrato com contador | imediato (se ainda não houver) | Essencial para confirmar regime atual e planejar folha de pagamento/migração |
 
 ---
 
-## 2. Estrutura Organizacional — Setores da LUEUR
+## 2. Estrutura Organizacional — Setores da MIEL
 
 Mesmo operando enxuta no início, é fundamental **pensar em setores desde já** — isso organiza responsabilidades,
 permite delegar com clareza e prepara a empresa para escalar sem caos. No começo, **uma mesma pessoa (você) acumula
@@ -85,10 +87,10 @@ vários setores**, mas cada um tem processos e metas próprios.
 
 #### B) Produto & Estoque
 **Responsabilidades**: curadoria de produtos, relação com fornecedores/gráficas, controle de estoque (mínimo/máximo),
-desenvolvimento de novas coleções ("Fases da Luz"), controle de qualidade.
+desenvolvimento de novos produtos dentro da linha única MIEL, controle de qualidade.
 
 **Ferramentas**: planilha de controle de estoque (ou Bling/Tiny ERP desde o início — recomendado, plano básico
-~R$ 60-120/mês), cadastro de SKU por coleção/fase.
+~R$ 60-120/mês), cadastro de SKU por categoria.
 
 **Decisão-chave imediata**: como você já tem um estoque pequeno, o primeiro passo é **catalogar tudo** (SKU, custo
 unitário, quantidade, fornecedor) — isso é a base para qualquer projeção financeira confiável.
@@ -239,7 +241,7 @@ Se R$ 65-90k não estiver disponível agora, ajuste por **ordem de prioridade** 
 - [ ] Iniciar pesquisa e pedido de registro de marca no INPI (titularidade: CNPJ acima).
 
 ### 5.2 Esta semana (estrutura)
-- [ ] Catalogar todo o estoque atual na planilha `planilhas/estoque.csv` (SKU, custo, quantidade, fornecedor, coleção/"fase da luz").
+- [ ] Catalogar todo o estoque atual na planilha `planilhas/estoque.csv` (SKU, custo, quantidade, fornecedor, linha temática).
 - [ ] Montar a planilha de fluxo de caixa (modelo da seção 4.2) com seus números reais.
 - [ ] Definir os **2 marketplaces prioritários** para os primeiros 90 dias (recomendação: Shopee + site próprio,
   adicionando Mercado Livre no mês 2).
@@ -252,7 +254,7 @@ Se R$ 65-90k não estiver disponível agora, ajuste por **ordem de prioridade** 
 |---|---|
 | Quando contratar auxiliar de logística | Volume médio > 15 pedidos/dia por 2 semanas consecutivas |
 | Quando migrar de MEI para ME | Receita acumulada do ano projetada > R$ 70.000, **ou** necessidade de CLT |
-| Quando lançar nova "fase da luz"/coleção | Quando a coleção atual atingir giro de estoque > 70% |
+| Quando lançar novo produto na linha MIEL | Quando o produto/categoria atual atingir giro de estoque > 70% |
 | Quando aumentar investimento em tráfego pago | Quando o CAC (custo de aquisição) ficar **abaixo de 30% do ticket médio** de forma consistente por 30 dias |
 | Quando entrar em novo marketplace | Quando os 2 canais atuais estiverem com operação estável (sem atraso de envio > 2 dias) |
 
@@ -262,7 +264,7 @@ Se R$ 65-90k não estiver disponível agora, ajuste por **ordem de prioridade** 
 
 1. **Planilha de Controle de Estoque** (SKU, custo, preço de venda por canal, ponto de reposição).
 2. **Planilha de Fluxo de Caixa** (entradas/saídas reais, atualizada semanalmente).
-3. **Calendário Editorial** (Marketing & Digital) — cruzando com as "Fases da Luz" e datas sazonais.
+3. **Calendário Editorial** (Marketing & Digital) — cruzando lançamentos da linha MIEL com datas sazonais.
 4. **Manual de Marca** (logo, paleta, tipografia, banco de imagens) — formaliza o branding já definido no
    `PLANO_DE_NEGOCIO.md`.
 

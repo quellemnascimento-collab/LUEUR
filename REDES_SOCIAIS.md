@@ -1,49 +1,49 @@
-# Lueur — Plano de Redes Sociais
+# Miel — Plano de Redes Sociais
 ### Setup de perfis, calendário de conteúdo e banco de ideias
 
 ---
 
 ## 1. Setup de Perfis
 
-### 1.1 Instagram (@lueurpapelaria)
+### 1.1 Instagram (@mielpapelaria)
 
-- **Nome do perfil**: Lueur — Papelaria e Ateliê
+- **Nome do perfil**: Miel — Papelaria e Ateliê
 - **Bio (versão final)**:
   ```
-  ✦ Lueur (lê-se "luêr")
-  o brilho que mora em cada detalhe
-  papelaria + ateliê — feito pra brilhar do seu jeito
-  suas fases, suas cores, seu ritmo 👇
+  ✦ MIEL (lê-se "mi-él")
+  beleza funcional para vida intencional
+  papelaria + ateliê — feito pra durar e pra brilhar na sua mesa
+  o doce no detalhe 👇
   ```
 - **Link**: usar link único (Linktree/Beacons) apontando para: site, WhatsApp VIP, formulário Ateliê.
-- **Destaques (Stories Highlights)** — capas seguindo a paleta (Bruma/Âmbar):
+- **Destaques (Stories Highlights)** — capas seguindo a paleta (Miel Cream/Miel Dourado):
   1. **Sobre** — manifesto da marca
-  2. **Aurora** / **Golden Hour** / **Dusk** / **Night Glow** (uma por fase, conforme lançamentos)
+  2. **Linha MIEL** — produtos em destaque (lançamentos, novidades)
   3. **Ateliê** — personalização/encomendas
   4. **Depoimentos**
   5. **Bastidores**
   6. **FAQ** (frete, prazo, trocas)
 
-### 1.2 TikTok (@lueurpapelaria)
+### 1.2 TikTok (@mielpapelaria)
 
-- **Bio**: "✦ Lueur (luêr) | o brilho que mora em cada detalhe | Night Glow ✨ | link na bio"
-- Foco: vídeos curtos, ASMR, "brilha no escuro" (Night Glow tem altíssimo potencial de viralização aqui).
+- **Bio**: "✦ MIEL (mi-él) | beleza funcional para vida intencional | o doce no detalhe ✨ | link na bio"
+- Foco: vídeos curtos, ASMR, desk setup, bastidores de produção.
 
 ### 1.3 Pinterest
 
-- **Nome**: Lueur Papelaria
-- **Boards**: "Fases da Luz — Aurora", "Golden Hour", "Dusk", "Night Glow", "Setups & Inspiração", "Ateliê &
+- **Nome**: Miel Papelaria
+- **Boards**: "MIEL — Paleta & Texturas", "Desk Setup & Inspiração", "Universo Simbólico MIEL", "Ateliê &
   Personalização" — cada pin linkando para o produto/post correspondente.
 
 ### 1.4 WhatsApp (Lista VIP)
 
-- Nome do grupo/lista de transmissão: "Lueur ✦ Acesso Antecipado"
+- Nome do grupo/lista de transmissão: "Miel ✦ Acesso Antecipado"
 - Mensagem de boas-vindas (template):
   ```
   Oi! ✦ Que bom ter você aqui.
   Essa é nossa lista de acesso antecipado — você vai saber primeiro sobre
-  novos lançamentos das Fases da Luz, restocks e promoções exclusivas.
-  Sem spam, só luz boa. 🤍
+  novos lançamentos, restocks e promoções exclusivas.
+  Sem spam, só o doce no detalhe. 🤍
   ```
 
 ---
@@ -52,11 +52,11 @@
 
 | Pilar | % do conteúdo | Objetivo | Formatos |
 |---|---|---|---|
-| **Ritual da Luz** (produto em uso, por fase do dia) | 30% | Conexão emocional + mostrar produto em contexto | Reels, fotos de feed |
+| **Beleza Funcional** (produto em uso real) | 30% | Conexão emocional + mostrar produto em contexto | Reels, fotos de feed |
 | **Bastidores/Processo** (produção, Ateliê, embalagem) | 20% | Confiança, "marca pequena/autoral" | Reels, Stories |
 | **Educacional** (métodos de planner, journaling, organização) | 20% | Atrair público amplo, SEO/Pinterest | Carrosséis, Reels |
-| **UGC/Comunidade** (#BrilhoProprio) | 15% | Prova social | Stories, repost no feed |
-| **Drops/Lançamentos** | 15% | Conversão | Reels, carrosséis, contagem regressiva em Stories |
+| **UGC/Comunidade** (#BelezaFuncional) | 15% | Prova social | Stories, repost no feed |
+| **Lançamentos/Novidades** | 15% | Conversão | Reels, carrosséis, contagem regressiva em Stories |
 
 ---
 
@@ -65,10 +65,10 @@
 | Dia | Instagram Feed | Instagram Stories | TikTok |
 |---|---|---|---|
 | Segunda | Carrossel educacional | Bastidores da semana | — |
-| Terça | — | Enquete/pergunta (engajamento) | Vídeo "ritual" (Reel adaptado) |
-| Quarta | Reel "Ritual da Luz" | Repost de UGC | — |
+| Terça | — | Enquete/pergunta (engajamento) | Vídeo de produto (Reel adaptado) |
+| Quarta | Reel "Beleza Funcional" | Repost de UGC | — |
 | Quinta | — | Dica rápida / curiosidade da marca | Vídeo bastidores/ASMR |
-| Sexta | Post de produto (foco em uma "fase") | Promoção/CTA fim de semana | — |
+| Sexta | Post de produto | Promoção/CTA fim de semana | — |
 | Sábado | — | UGC + interação | Vídeo educacional curto |
 | Domingo | Reel inspiracional (sem venda direta) | "Domingo de planejamento" — preparação da semana | — |
 
@@ -77,41 +77,41 @@
 
 ---
 
-## 4. Banco de Ideias — Primeiros 30 Dias (Pré-lançamento + Lançamento Aurora)
+## 4. Banco de Ideias — Primeiros 30 Dias (Pré-lançamento + Lançamento da linha MIEL)
 
 ### Semana 1 — Apresentação da marca
-1. Reel: "Por que Lueur existe" (manifesto, voz off + imagens do moodboard/paleta).
-2. Carrossel: "As 4 Fases da Luz — qual é a sua?" (apresenta o sistema de coleções).
-3. Story: enquete "Você é mais Aurora, Golden Hour, Dusk ou Night Glow?"
-4. Post estático: reveal do logo + significado do nome "Lueur".
+1. Reel: "Por que MIEL existe" (manifesto, voz off + imagens do moodboard/paleta).
+2. Carrossel: "Beleza funcional para vida intencional — o que isso significa na prática".
+3. Story: enquete "Você escolhe bonito ou funcional? E se não precisasse escolher?"
+4. Post estático: reveal do logo + significado e pronúncia do nome "Miel" (mi-él).
 
 ### Semana 2 — Bastidores e expectativa
-5. Reel: bastidores de escolha de papel/cores para a coleção Aurora.
-6. Story sequence: "construindo a Lueur" (estoque, embalagens, testes).
+5. Reel: bastidores de escolha de papel/cores da linha MIEL.
+6. Story sequence: "construindo a MIEL" (estoque, embalagens, testes).
 7. Post: convite para lista VIP no WhatsApp ("acesso antecipado ✦").
-8. Reel: teaser do efeito Night Glow (mostrar rapidamente, sem revelar produto) — gerar curiosidade.
+8. Reel: teaser de um produto-âncora (mostrar rapidamente, sem revelar tudo) — gerar curiosidade.
 
 ### Semana 3 — Pré-venda / contagem regressiva
-9. Carrossel: "Tudo sobre a coleção Aurora" (produtos, paleta, inspiração).
+9. Carrossel: "Tudo sobre a linha MIEL" (produtos, paleta, inspiração).
 10. Reel: unboxing simulado (embalagem + cartão personalizado).
 11. Story: contagem regressiva (3, 2, 1 dia para o lançamento).
-12. Parceria: microinfluenciadora recebe kit Aurora antecipado — Reel de reação.
+12. Parceria: microinfluenciadora recebe kit MIEL antecipado — Reel de reação.
 
 ### Semana 4 — Lançamento
-13. Reel/Post: lançamento oficial da coleção Aurora (CTA: link na bio).
+13. Reel/Post: lançamento oficial da linha MIEL (CTA: link na bio).
 14. Story: prova social em tempo real (prints de pedidos, reações).
-15. Carrossel educacional: "Como começar seu planner Aurora" (tutorial de uso).
-16. Reel: "um dia no meu ritual Aurora" — produto em contexto de uso real.
+15. Carrossel educacional: "Como organizar sua mesa com beleza funcional" (tutorial de uso).
+16. Reel: "um dia intencional com MIEL" — produto em contexto de uso real.
 
 ---
 
 ## 5. Hashtags e SEO
 
-- **Hashtag de marca**: #BrilhoProprio (UGC), #LueurPapelaria, #FasesDaLuz
+- **Hashtag de marca**: #BelezaFuncional (UGC), #MielPapelaria, #VidaIntencional
 - **Hashtags de nicho** (rotativas, 8-12 por post): #planneraddict #bulletjournal #journaling #papelariacriativa
   #desksetup #aestheticstationery #organizacaopessoal #autocuidado
 - **Pinterest**: usar descrições longas com palavras-chave ("planner aesthetic", "papelaria minimalista",
-  "caderno que brilha no escuro") — Pinterest funciona como motor de busca, não rede social.
+  "desk setup elegante") — Pinterest funciona como motor de busca, não rede social.
 
 ---
 
@@ -122,14 +122,14 @@
 | Alcance de Reels | Instagram/TikTok Insights | Identificar os 2 formatos com melhor desempenho e repetir |
 | Taxa de salvamento (carrosséis) | Instagram Insights | Indica conteúdo "evergreen" — repostar/impulsionar |
 | Cliques no link da bio | Linktree/Beacons analytics | Acompanhar conversão para WhatsApp VIP e site |
-| Crescimento da lista VIP | WhatsApp | Meta: 100-200 contatos antes do lançamento Aurora |
-| Menções/UGC com #BrilhoProprio | Busca manual/Instagram | Repostar toda menção em até 24h |
+| Crescimento da lista VIP | WhatsApp | Meta: 100-200 contatos antes do lançamento |
+| Menções/UGC com #BelezaFuncional | Busca manual/Instagram | Repostar toda menção em até 24h |
 
 ---
 
 ## 7. Próximos passos
 
-- [ ] Definir handles finais (@lueur.papelaria ou variação, conforme disponibilidade no Instagram/TikTok).
+- [ ] Confirmar disponibilidade final do handle @mielpapelaria no Instagram/TikTok.
 - [ ] Criar templates de Stories/Feed no Canva usando a paleta e tipografia do `moodboard.html`.
 - [ ] Gravar os 4 primeiros Reels da Semana 1 antes do lançamento dos perfis (ter "estoque" de conteúdo).
 - [ ] Abrir lista de transmissão no WhatsApp e divulgar o link desde o primeiro post.

@@ -1,17 +1,17 @@
-SKU,Nome_Produto,Linha,Fase_da_Luz,Categoria,Fornecedor,Custo_Unitario,Preco_Site,Preco_Marketplace,Quantidade_Atual,Estoque_Minimo,Canal_Principal,Personalizavel,Observacoes
-PA-001,Planner Anual,Planejamento,Aurora,Planner,,,,,,20,Site + Shopee,Sim,Capa hot stamping - definir ano vigente
-PP-001,Planner Permanente,Planejamento,Golden Hour,Planner,,,,,,15,Site + Elo7,Sim,Sem datas fixas - uso contínuo
-PF-001,Planner Financeiro,Planejamento,Dusk,Planner,,,,,,15,Site + Shopee,Sim,Layout controle receitas/despesas/metas
-PH-001,Planner de Hábitos,Planejamento,Night Glow,Planner,,,,,,15,Site + Shopee,Sim,Tracker diário - temática noturna
-BS-001,Bloco Semanal,Planejamento,Aurora,Bloco,,,,,,20,Site + Shopee,Não,Formato A5 - layout horizontal
-BD-001,Bloco Diário,Planejamento,Golden Hour,Bloco,,,,,,20,Site + Shopee,Não,Formato A5 - espaço por horário
-LP-001,Lista de Prioridades,Planejamento,Todas,Bloco,,,,,,30,Shopee + Site,Não,Tearpad - bloco destacável premium
-CM-001,Calendário de Mesa,Planejamento,Aurora,Calendário,,,,,,25,Site + Shopee,Sim,Formato mesa - base acrílica ou kraft
-PC-001,Porta Canetas,Organização,Golden Hour,Acessório de mesa,,,,,,20,Site + ML,Sim (stamping),Material: cerâmica ou acrílico âmbar
-BO-001,Bandeja Organizadora,Organização,Golden Hour,Acessório de mesa,,,,,,15,Site + ML,Sim (stamping),Material: madeira ou MDF laminado
-CL-001,Clips Dourados (kit),Organização,Âmbar (transversal),Acessório,,,,,,30,Shopee + Site,Não,Kit 12 unidades - embalagem premium
-MM-001,Marcador Magnético,Organização,Todas,Acessório,,,,,,25,Site + Shopee,Sim (stamping),Metálico ou acrílico - glifo ✦
-MP-001,Mousepad Premium,Organização,Dusk,Acessório de mesa,,,,,,20,Site + ML,Sim (stamping),Tecido premium 40x80 - base antiderrapante
-BE-001,Bloco Executivo,Planejamento,Dusk,Bloco,,,,,,15,Site + ML,Sim (hot stamping),Capa rígida courino - público B2B/corporativo
+SKU,Nome_Produto,Linha,Linha_Tematica,Categoria,Fornecedor,Custo_Unitario,Preco_Site,Preco_Marketplace,Quantidade_Atual,Estoque_Minimo,Canal_Principal,Personalizavel,Observacoes
+PA-001,Planner Anual,Planejamento,MIEL,Planner,,,,,,20,Site + Shopee,Sim,Capa hot stamping - definir ano vigente
+PP-001,Planner Permanente,Planejamento,MIEL,Planner,,,,,,15,Site + Elo7,Sim,Sem datas fixas - uso contínuo
+PF-001,Planner Financeiro,Planejamento,MIEL,Planner,,,,,,15,Site + Shopee,Sim,Layout controle receitas/despesas/metas
+PH-001,Planner de Hábitos,Planejamento,MIEL,Planner,,,,,,15,Site + Shopee,Sim,Tracker diário
+BS-001,Bloco Semanal,Planejamento,MIEL,Bloco,,,,,,20,Site + Shopee,Não,Formato A5 - layout horizontal
+BD-001,Bloco Diário,Planejamento,MIEL,Bloco,,,,,,20,Site + Shopee,Não,Formato A5 - espaço por horário
+LP-001,Lista de Prioridades,Planejamento,MIEL,Bloco,,,,,,30,Shopee + Site,Não,Tearpad - bloco destacável premium
+CM-001,Calendário de Mesa,Planejamento,MIEL,Calendário,,,,,,25,Site + Shopee,Sim,Formato mesa - base acrílica ou kraft
+PC-001,Porta Canetas,Organização,MIEL,Acessório de mesa,,,,,,20,Site + ML,Sim (stamping),Material: cerâmica ou acrílico dourado
+BO-001,Bandeja Organizadora,Organização,MIEL,Acessório de mesa,,,,,,15,Site + ML,Sim (stamping),Material: madeira ou MDF laminado
+CL-001,Clips Dourados (kit),Organização,MIEL,Acessório,,,,,,30,Shopee + Site,Não,Kit 12 unidades - embalagem premium
+MM-001,Marcador Magnético,Organização,MIEL,Acessório,,,,,,25,Site + Shopee,Sim (stamping),Metálico ou acrílico - glifo ✦
+MP-001,Mousepad Premium,Organização,MIEL,Acessório de mesa,,,,,,20,Site + ML,Sim (stamping),Tecido premium 40x80 - base antiderrapante
+BE-001,Bloco Executivo,Planejamento,MIEL,Bloco,,,,,,15,Site + ML,Sim (hot stamping),Capa rígida courino - público B2B/corporativo
 CS-001,Kit Costura Personalizado,Ateliê,Sob Consulta,Personalizado,,,,,,0,Site (formulário),Sim,Sob encomenda - sem estoque parado
 ST-001,Stamping Personalizado,Ateliê,Sob Consulta,Personalizado,,,,,,0,Site (formulário),Sim,Sob encomenda - prazo 7-10 dias
