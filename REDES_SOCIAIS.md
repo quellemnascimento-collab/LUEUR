@@ -5,11 +5,11 @@
 
 ## 1. Setup de Perfis
 
-### 1.1 Instagram (@mielpaper)
+### 1.1 Instagram (@mielpapelaria)
 
-> **Nota de handle**: o handle social muda de `@mielpapelaria` para **`@mielpaper`**, para consistência com o
-> novo nome comercial "Miel Paper". Isso exige re-registro/atualização do handle nas plataformas reais
-> (Instagram, TikTok) — ainda não está refletido nos perfis ao vivo, apenas neste planejamento.
+> **Nota de handle**: o handle `@mielpaper` não está disponível — o handle social permanece **`@mielpapelaria`**,
+> mesmo com o nome comercial atualizado para "Miel Paper". Nome de exibição do perfil reflete o novo nome
+> comercial; o @ (URL/identificador) continua o mesmo.
 
 - **Nome do perfil**: Miel Paper
 - **Bio (versão final)**:
@@ -28,7 +28,7 @@
   5. **Bastidores**
   6. **FAQ** (frete, prazo, trocas)
 
-### 1.2 TikTok (@mielpaper)
+### 1.2 TikTok (@mielpapelaria)
 
 - **Bio**: "✦ MIEL PAPER (mi-él) | beleza funcional para vida intencional | o doce no detalhe ✨ | link na bio"
 - Foco: vídeos curtos, ASMR, desk setup, bastidores de produção.
@@ -133,8 +133,8 @@
 
 ## 7. Próximos passos
 
-- [ ] Confirmar disponibilidade final do handle @mielpaper no Instagram/TikTok (novo handle, alinhado ao nome
-  comercial "Miel Paper" — re-registrar/atualizar a partir do handle anterior @mielpapelaria).
+- [ ] Atualizar nome de exibição dos perfis existentes para "Miel Paper" (o handle @mielpapelaria permanece —
+  @mielpaper não está disponível).
 - [ ] Criar templates de Stories/Feed no Canva usando a paleta e tipografia do `moodboard.html`.
 - [ ] Gravar os 4 primeiros Reels da Semana 1 antes do lançamento dos perfis (ter "estoque" de conteúdo).
 - [ ] Abrir lista de transmissão no WhatsApp e divulgar o link desde o primeiro post.
