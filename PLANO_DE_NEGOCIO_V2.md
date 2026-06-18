@@ -12,7 +12,7 @@
 | Item | Plano original | Material recebido | **Ajuste final (v2)** |
 |---|---|---|---|
 | Conceito de marca | "Fases da Luz" (Aurora/Golden Hour/Dusk/Night Glow), estética noturna | "Iluminação criativa", minimalismo escandinavo | **Reposicionamento para MIEL**: substitui o sistema "Fases da Luz" por uma linha única sob "Beleza Funcional para Vida Intencional" — mais coerente com o público-alvo (profissionais criativas 25-45) e elimina a complexidade de gerenciar múltiplas sub-coleções |
-| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta final definida pela fundadora**: tons terrosos (Miel Cream, sálvia, rosa-pó, pêssego, Miel Dourado, marrom-chocolate) — ver seção 4.2 |
+| Paleta | Predominantemente escura (preto, vinho, azul-noite) | Predominantemente clara (creme, dourado, rosa pôr-do-sol) | **Paleta final definida pela fundadora**: tons terrosos (Favo Claro, Mel Puro, Âmbar Annecy, Pêssego Japonês, Pó de Mel, Folha de Camélia, Terra Mel) — ver seção 4.2 |
 | Concorrentes | Focava só em marcas de nicho/design (Tropix, Else, Brink) | Inclui players de massa (Kalunga, Tilibra, Faber-Castell) e nicho (Papel de Pato, Planeta Kawaii) | **Mescla as duas listas** — investidor precisa ver o cenário completo (massa + nicho + premium) |
 | Marketplaces | Shopee, ML, Elo7, Amazon, Instagram/TikTok Shop | Adiciona Magalu, Americanas, hub integrador | **Inclui todos**, mas prioriza 2 no início (ver seção 6) |
 | Eventos | Genéricos | Nomes e datas específicas (Escritório Escolar Brasil, EMBANEWS, LicenciamentoCon) | **Mantém os nomes específicos**, com aviso para confirmar datas/local antes de planejar viagem/orçamento |
@@ -98,21 +98,18 @@ maduro de profissionais criativas (arquitetas, designers, 25-45 anos) e **(3)** 
 
 ### 4.2 Paleta de cores — VERSÃO FINAL (definida pela fundadora)
 
-A paleta abaixo é majoritariamente herdada da identidade anterior (mesclada, não substituída) — é uma paleta
-terrosa/aconchegante que já funcionava bem e não era específica do conceito "fases".
+A paleta abaixo foi redesenhada do zero a partir de referência visual de tons de mel/favo (creme, mostarda, âmbar,
+coral, rosa-pó, oliva e espresso) — substitui integralmente a paleta herdada da identidade anterior.
 
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
-| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
-| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento "natureza/sustentabilidade" |
-| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta-se ao motivo simbólico "Pêssego Japonês" |
-| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping, ícones |
-| Marrom-chocolate | Terra Noturna | `#4A3624` | **Cor de tipografia principal e logotipo** |
-
-**Nota de transição**: apenas dois nomes de cor foram atualizados — "Bruma" → **Miel Cream** (mesmo hex) e
-"Âmbar" → **Miel Dourado** (mesmo hex, já era literalmente um tom mel/dourado). As demais quatro cores mantêm
-nome e hex originais, pois não eram específicas do conceito retirado.
+| Creme/off-white | Favo Claro | `#F5EDE0` | Fundo principal, embalagens, espaços em branco |
+| Mostarda/dourado | Mel Puro | `#C8862E` | Cor-assinatura da marca — hot stamping, ícones, detalhes premium |
+| Âmbar/canela | Âmbar Annecy | `#A6651E` | Acentos secundários, bordas |
+| Coral/pêssego | Pêssego Japonês | `#F08B68` | Destaques, etiquetas — conecta-se ao motivo simbólico "Pêssego Japonês" |
+| Rosa-pó/terracota claro | Pó de Mel | `#D99A93` | Acentos suaves |
+| Verde-oliva/sálvia | Folha de Camélia | `#8A9457` | Acento "natureza/sustentabilidade" |
+| Marrom-espresso | Terra Mel | `#2E1F18` | **Cor de tipografia principal e logotipo** |
 
 ### 4.3 Tipografia e logotipo
 

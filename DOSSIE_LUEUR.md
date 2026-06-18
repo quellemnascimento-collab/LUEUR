@@ -35,12 +35,13 @@ projeções financeiras em 3 cenários).
 
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
-| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens |
-| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento natureza/sustentabilidade |
-| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta ao motivo Pêssego Japonês |
-| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping |
-| Marrom-chocolate | Terra Noturna | `#4A3624` | Tipografia/logo principal |
+| Creme/off-white | Favo Claro | `#F5EDE0` | Fundo principal, embalagens |
+| Mostarda/dourado | Mel Puro | `#C8862E` | Cor-assinatura, hot stamping, ícones |
+| Âmbar/canela | Âmbar Annecy | `#A6651E` | Acentos secundários, bordas |
+| Coral/pêssego | Pêssego Japonês | `#F08B68` | Destaques, conecta ao motivo Pêssego Japonês |
+| Rosa-pó/terracota claro | Pó de Mel | `#D99A93` | Acentos suaves |
+| Verde-oliva/sálvia | Folha de Camélia | `#8A9457` | Acento natureza/sustentabilidade |
+| Marrom-espresso | Terra Mel | `#2E1F18` | Tipografia/logo principal |
 
 ---
 

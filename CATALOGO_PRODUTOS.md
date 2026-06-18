@@ -34,7 +34,7 @@
 ### `PA-001` Planner Anual
 - **Conceito**: "Seu ano com beleza funcional" — planner datado com visão anual, mensal e semanal integradas.
 - **Specs sugeridos**: capa dura/semi-rígida, hot stamping ✦ na capa, miolo papel 90g, 200–240 páginas,
-  marcador de fita em Miel Dourado, elástico de fechamento em tom Folha Suave.
+  marcador de fita em Mel Puro, elástico de fechamento em tom Folha de Camélia.
 - **Conteúdo do miolo**: visão do ano, calendário anual, mapa de metas, páginas mensais (calendário + notas),
   páginas semanais (segunda a domingo + espaço de reflexão), retrospectiva anual.
 - **Personalização (Ateliê)**: nome/iniciais em hot stamping na capa (+R$ 20–30).
@@ -62,8 +62,8 @@
 ### `PF-001` Planner Financeiro
 - **Conceito**: "Organize suas finanças sem angústia" — não é planilha fria, é diário financeiro com toque
   emocional.
-- **Specs sugeridos**: capa dura tom Terra Noturna com hot stamping dourado, miolo 90g colorido com seções por
-  cor (receitas em Pó de Luz, despesas em Brilho Pêssego, metas em Folha Suave), 12 meses.
+- **Specs sugeridos**: capa dura tom Terra Mel com hot stamping dourado, miolo 90g colorido com seções por
+  cor (receitas em Pó de Mel, despesas em Pêssego Japonês, metas em Folha de Camélia), 12 meses.
 - **Conteúdo do miolo**: visão mensal de receitas/despesas, categorias de gastos, meta de economia, reflexão
   financeira do mês, controle de investimentos simplificado, retrospectiva semestral.
 - **Personalização**: nome na capa + cor de capa.
@@ -76,7 +76,7 @@
 ### `PH-001` Planner de Hábitos
 - **Conceito**: "Construa seus hábitos no seu ritmo, com intenção" — tracker de hábitos sem
   julgamento, com espaço para reflexão noturna.
-- **Specs sugeridos**: capa em preto fosco (Terra Noturna), detalhes em tinta fosforescente/prata no ✦ (acabamento
+- **Specs sugeridos**: capa em preto fosco (Terra Mel), detalhes em tinta fosforescente/prata no ✦ (acabamento
   de novidade "Brilho Noturno"), miolo com tracker diário de até 10 hábitos, espaço de humor/energia, reflexão
   noturna, 90 dias por volume.
 - **Conteúdo do miolo**: tracker diário (10 hábitos), escala de energia/humor, campo "intenção da noite",
@@ -137,7 +137,7 @@
 ## LINHA 2 — Organização de Mesa
 
 ### `PC-001` Porta Canetas
-- **Material sugerido**: cerâmica artesanal (acabamento fosco) em tom Miel Cream ou Miel Dourado OU acrílico
+- **Material sugerido**: cerâmica artesanal (acabamento fosco) em tom Favo Claro ou Mel Puro OU acrílico
   dourado translúcido — definir com fornecedor de cerâmica ou acrílico.
 - **Personalização (stamping/gravação)**: glifo ✦ ou nome do cliente gravado a laser ou por hot stamping no
   acrílico.
@@ -156,7 +156,7 @@
 ---
 
 ### `CL-001` Clips Dourados (kit)
-- **Specs**: kit com 12 clips em metal dourado, mix de tamanhos, embalagem em caixinha Miel Cream com lacre ✦ Miel.
+- **Specs**: kit com 12 clips em metal dourado, mix de tamanhos, embalagem em caixinha Favo Claro com lacre ✦ Miel.
 - **Preço sugerido**: R$ 32–45 (site) / R$ 35–50 (marketplace).
 - **Estratégia**: produto de impulso de alto giro — entra em bundles, kits de presente e como "mimo" em pedidos
   acima de R$ 150.
@@ -166,7 +166,7 @@
 
 ### `MM-001` Marcador Magnético
 - **Material sugerido**: acrílico fosco ou metal, glifo ✦ gravado a laser, disponível nas cores da paleta
-  (Miel Cream, Miel Dourado, Terra Noturna), imã embutido — funciona em cadernos com capa metálica ou como
+  (Favo Claro, Mel Puro, Terra Mel), imã embutido — funciona em cadernos com capa metálica ou como
   marcador de página magnético.
 - **Personalização**: nome ou inicial gravada.
 - **Preço sugerido**: R$ 28–40 (base) / R$ 38–55 (personalizado).
@@ -176,7 +176,7 @@
 
 ### `MP-001` Mousepad Premium
 - **Specs**: superfície de microfibra (suave, boa para escrita/mouse), base antiderrapante em borracha,
-  tamanho 40x80cm, estampa com gradiente Folha Suave → Terra Noturna ou arte ✦ Miel,
+  tamanho 40x80cm, estampa com gradiente Folha de Camélia → Terra Mel ou arte ✦ Miel,
   bordas costuradas.
 - **Personalização (stamping)**: nome ou logotipo do cliente no canto inferior — ideal para B2B (kits
   corporativos com mousepad personalizado).
@@ -188,7 +188,7 @@
 ### `BE-001` Bloco Executivo
 - **Conceito**: papelaria de escritório com a estética Miel — para a persona Carla (profissional liberal) e para
   o mercado B2B (kits corporativos).
-- **Specs**: formato A4, capa rígida em courino Terra Noturna, hot stamping ✦ na capa, 80 folhas pautadas 90g,
+- **Specs**: formato A4, capa rígida em courino Terra Mel, hot stamping ✦ na capa, 80 folhas pautadas 90g,
   bolso interno, marcador de fita dourada. Versão personalizada com logotipo de empresa em hot stamping.
 - **Personalização**: logotipo/nome da empresa na capa — excelente produto de brinde corporativo.
 - **Preço sugerido**: R$ 110–160 (base) / R$ 130–200 (personalizado).

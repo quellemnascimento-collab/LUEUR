@@ -16,7 +16,7 @@
   o doce no detalhe 👇
   ```
 - **Link**: usar link único (Linktree/Beacons) apontando para: site, WhatsApp VIP, formulário Ateliê.
-- **Destaques (Stories Highlights)** — capas seguindo a paleta (Miel Cream/Miel Dourado):
+- **Destaques (Stories Highlights)** — capas seguindo a paleta (Favo Claro/Mel Puro):
   1. **Sobre** — manifesto da marca
   2. **Linha MIEL** — produtos em destaque (lançamentos, novidades)
   3. **Ateliê** — personalização/encomendas

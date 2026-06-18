@@ -75,7 +75,7 @@ papelaria, é um universo de estilo de vida feminino.
 | # | Produto | Descrição | Ticket (R$) | Janela de lançamento | Conteúdo/viral |
 |---|---|---|---|---|---|
 | ★ 1 | **Caderno Capa Dura MIEL** | Miolo pontilhado 120g, capa em material texturizado (veludo, perolado ou kraft, conforme edição), hot stamping ✦ no canto | 95–145 | Mês 1 | Flip-through ASMR, "unboxing MIEL" |
-| ★ 2 | **Diário de Leituras** | Registro de livros lidos: capa, páginas de sinopse, personagens, frases, avaliação. Miolo colorido em Miel Cream/Miel Dourado | 85–120 | Mês 1 | "Decora seu diário de leituras" — viral entre bookstagrammers |
+| ★ 2 | **Diário de Leituras** | Registro de livros lidos: capa, páginas de sinopse, personagens, frases, avaliação. Miolo colorido em Favo Claro/Mel Puro | 85–120 | Mês 1 | "Decora seu diário de leituras" — viral entre bookstagrammers |
 | ★ 3 | **Carimbo Ex-Libris Personalizado** | Carimbo com nome do cliente + glifo ✦ Miel, cabo em madeira, tinta inclusa | 75–110 | Mês 2 | Mostrar o processo de carimbar — ASMR garantido |
 | 4 | **Planner Semanal MIEL** | Layout horizontal, espaço para prioridades + intenção do dia, papel 90g, capa aquarela tons da paleta MIEL | 110–160 | Mês 3 | "Minha semana planejada com intenção" |
 | 5 | **Caderno de Viagem** | Formato A6, capa dura, bolso interno, elástico dourado, mapa para rota e espaço para fotos | 75–110 | Mês 4 | "Diário de viagem começando" — alto engajamento |
@@ -89,7 +89,7 @@ papelaria, é um universo de estilo de vida feminino.
 
 | # | Produto | Descrição | Ticket (R$) | Janela | Conteúdo |
 |---|---|---|---|---|---|
-| ★ 9 | **Kit de Escrita MIEL** | 1 caneta tinteiro entry level (curadoria) + 1 frasco de tinta na cor Miel Dourado + 1 bloco de notas Miel | 130–180 | Mês 2 | "Meu kit de escrita favorito" |
+| ★ 9 | **Kit de Escrita MIEL** | 1 caneta tinteiro entry level (curadoria) + 1 frasco de tinta na cor Mel Puro + 1 bloco de notas Miel | 130–180 | Mês 2 | "Meu kit de escrita favorito" |
 | 10 | **Caneta Roller Ball de Autor** | Caneta com acabamento fosco e detalhe dourado, embalagem Miel, 0.5mm | 55–85 | Mês 3 | Review ASMR de escrita |
 | 11 | **Lápis de cor aquarelável "Paleta Miel"** | 12 cores curadas na paleta Miel (cream, sálvia, pêssego, dourado, terra), estojo de madeira | 95–140 | Mês 4 | "Aquarelando nas cores Miel" |
 | 12 | **Marcador de livro de acrílico** | Acrílico fosco com glifo ✦ gravado a laser, cordão em cetim dourado | 28–45 | Mês 1 | Produto de impulso, foto flat-lay |
@@ -111,7 +111,7 @@ papelaria, é um universo de estilo de vida feminino.
 
 | # | Produto | Descrição | Ticket (R$) | Janela | Conteúdo |
 |---|---|---|---|---|---|
-| ★ 17 | **Kit Presente MIEL** | Caixa curada: caderno + marcador + adesivos + cartão com frase "beleza funcional para vida intencional". Embalagem: caixa Miel Cream com lacre ✦ | 150–220 | Mês 1 | Unboxing — produto de maior ticket médio |
+| ★ 17 | **Kit Presente MIEL** | Caixa curada: caderno + marcador + adesivos + cartão com frase "beleza funcional para vida intencional". Embalagem: caixa Favo Claro com lacre ✦ | 150–220 | Mês 1 | Unboxing — produto de maior ticket médio |
 | ★ 18 | **Vela Aromática MIEL** | Fragrância única exclusiva (mel + âmbar + madeira clara), pote em vidro com rótulo Miel | 65–95 | Mês 2 | "A fragrância MIEL" — ASMR de vela |
 | 19 | **Baralho Temático MIEL** | Baralho ilustrado com motivos do universo simbólico (camélia, cisne, pêssego japonês, Annecy), caixa de madeira ou kraft, edição limitada | 90–130 | Mês 5 | Unboxing + "joga comigo" |
 | 20 | **Kit de Cartas & Envelopes** | Papel de carta 120g com pauta sutil, 10 envelopes, 2 selos de cera ✦, fita de cetim dourada | 75–110 | Mês 3 | "Escrevi uma carta de mão" — nostalgia Gen Z |

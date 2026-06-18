@@ -77,7 +77,7 @@ fotografia, moodboard, pequenos detalhes gráficos), nunca como tema central for
 |---|---|---|
 | **Flora** | Camélia 🤍 | Elegância serena, recorrente em ilustrações sutis, papel de carta, selos |
 | **Animal** | Cisne 🦢 | Graça e precisão — usado em pequenos detalhes gráficos, marca-páginas, embalagens premium |
-| **Fruta** | Pêssego Japonês 🍑 | Doçura refinada — conecta-se diretamente ao tom "Brilho Pêssego" da paleta |
+| **Fruta** | Pêssego Japonês 🍑 | Doçura refinada — conecta-se diretamente ao tom "Pêssego Japonês" da paleta |
 | **Cidade-referência** | Annecy (França) 🇫🇷 | Inspiração estética geral — arquitetura, luz, cores de cidade europeia pequena e charmosa |
 
 Esses elementos aparecem com moderação na fotografia de produto, embalagens e moodboard — como assinatura
@@ -124,39 +124,38 @@ discreta, não como decoração obrigatória em cada peça.
 
 ## 5. Identidade Visual — Detalhamento
 
-### 5.1 Paleta MIEL — versão final (6 cores)
+### 5.1 Paleta MIEL — versão final (7 cores)
+
+> Paleta redesenhada do zero a partir de referência visual de tons de mel/favo (gotas orgânicas em creme, mostarda,
+> âmbar, coral, rosa-pó, oliva e espresso) — substitui integralmente a paleta herdada da identidade anterior.
 
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
-| Off-white rosado | Miel Cream | `#F2E9E4` | Fundo principal, embalagens, espaços em branco |
-| Verde-sálvia | Folha Suave | `#A9AD8E` | Acento natureza/sustentabilidade |
-| Rosa-pó | Pó de Luz | `#E8D2D0` | Acentos suaves, etiquetas |
-| Pêssego/salmão | Brilho Pêssego | `#F1C6B3` | Destaques, conecta-se ao motivo "Pêssego Japonês" |
-| Dourado-amadeirado | Miel Dourado | `#A4824A` | Detalhes premium, hot stamping, ícones |
-| Marrom-chocolate | Terra Noturna | `#4A3624` | Tipografia/logo principal |
-
-> Nota de transição: a paleta é majoritariamente herdada da identidade anterior (cores que já funcionavam bem e
-> não eram específicas do antigo conceito de "fases"). Apenas dois nomes foram atualizados para refletir o
-> reposicionamento: "Bruma" → **Miel Cream** (mesmo hex, `#F2E9E4` — já era um creme funcional, sem necessidade de
-> mudar o tom) e "Âmbar" → **Miel Dourado** (mesmo hex, `#A4824A` — já é literalmente uma cor mel/dourada).
+| Creme/off-white | **Favo Claro** | `#F5EDE0` | Fundo principal, embalagens, espaços em branco |
+| Mostarda/dourado | **Mel Puro** | `#C8862E` | Cor-assinatura da marca — hot stamping, ícones, detalhes premium |
+| Âmbar/canela | **Âmbar Annecy** | `#A6651E` | Acentos secundários, bordas |
+| Coral/pêssego | **Pêssego Japonês** | `#F08B68` | Destaques, etiquetas — conecta-se diretamente ao motivo da fruta |
+| Rosa-pó/terracota claro | **Pó de Mel** | `#D99A93` | Acentos suaves |
+| Verde-oliva/sálvia | **Folha de Camélia** | `#8A9457` | Acento natureza/sustentabilidade — referência à flora da marca |
+| Marrom-espresso | **Terra Mel** | `#2E1F18` | Tipografia/logo principal, textos |
 
 ### 5.2 Tipografia
 
 - **Display/Títulos**: Playfair Display (serifada editorial — transmite elegância atemporal).
 - **Corpo/UX**: Inter (legibilidade em telas, neutra, moderna).
-- **Uso**: títulos sempre em Terra Noturna (`#4A3624`) ou Miel Dourado (`#A4824A`) sobre fundo Miel Cream; nunca
+- **Uso**: títulos sempre em Terra Mel (`#2E1F18`) ou Mel Puro (`#C8862E`) sobre fundo Favo Claro; nunca
   preto puro.
 
 ### 5.3 Logotipo — Versão Final
 
 Logo mantém a construção já validada, apenas com o wordmark atualizado: **"Miel"** em Playfair Display (caixa
-baixa, com maiúscula inicial), em tom Terra Noturna sobre fundo Miel Cream, com pequenos brilhos/sparkles em
-Miel Dourado ao redor das letras (no canto superior esquerdo do "M" e entre as letras do "i" e "e"), e a
+baixa, com maiúscula inicial), em tom Terra Mel sobre fundo Favo Claro, com pequenos brilhos/sparkles em
+Mel Puro ao redor das letras (no canto superior esquerdo do "M" e entre as letras do "i" e "e"), e a
 assinatura **"PAPELARIA E ATELIÊ"** em caixa alta, Inter, espaçada, abaixo do wordmark.
 
 - **Wordmark**: "Miel" em Playfair Display, caixa baixa com inicial maiúscula — mantém o tom acolhedor/editorial
   da versão anterior.
-- **Glifos**: pequenos sparkles (✦/✧) em Miel Dourado posicionados de forma assimétrica ao redor do wordmark —
+- **Glifos**: pequenos sparkles (✦/✧) em Mel Puro posicionados de forma assimétrica ao redor do wordmark —
   glifo mantido por decisão da fundadora (sem substituição por coração ou outro símbolo).
 - **Assinatura "Papelaria e Ateliê"**: reforça o posicionamento de marca de autor/produção própria — manter essa
   assinatura em toda comunicação institucional (site, embalagens, assinatura de e-mail).
@@ -164,8 +163,8 @@ assinatura **"PAPELARIA E ATELIÊ"** em caixa alta, Inter, espaçada, abaixo do 
   1. Logo completo (wordmark + sparkles + assinatura) — uso principal (site, packaging, perfil social).
   2. Wordmark + sparkles, sem assinatura — aplicações menores (favicon grande, selos).
   3. Apenas sparkles (✦) — ícone de app, marca de água, elemento gráfico de apoio.
-- **Cores do logo**: versão principal em Terra Noturna + sparkles em Miel Dourado sobre fundo Miel Cream; versão
-  reversa em Miel Cream + sparkles em Miel Dourado sobre fundo Terra Noturna (para embalagens escuras/edições
+- **Cores do logo**: versão principal em Terra Mel + sparkles em Mel Puro sobre fundo Favo Claro; versão
+  reversa em Favo Claro + sparkles em Mel Puro sobre fundo Terra Mel (para embalagens escuras/edições
   especiais).
 
 ### 5.4 Fotografia — Diretrizes
@@ -180,14 +179,14 @@ assinatura **"PAPELARIA E ATELIÊ"** em caixa alta, Inter, espaçada, abaixo do 
 
 ### 5.5 Packaging e materiais de marca
 
-- Caixas em papel kraft ou em tom Miel Cream, selo circular com o glifo ✦ em Miel Dourado ou dourado foil.
+- Caixas em papel kraft ou em tom Favo Claro, selo circular com o glifo ✦ em Mel Puro ou dourado foil.
 - Cartão de agradecimento com a frase "Beleza Funcional para Vida Intencional" ou um detalhe do universo
   simbólico (ex.: ilustração discreta de camélia).
-- Edições especiais: embalagem em Terra Noturna com selo em foil dourado — usada para presentes/itens premium.
+- Edições especiais: embalagem em Terra Mel com selo em foil dourado — usada para presentes/itens premium.
 
 ### 5.6 Padrões/texturas (elementos gráficos de apoio)
 
-- **Gradiente MIEL**: Miel Cream → Brilho Pêssego → Miel Dourado — usado em fundos de Stories, capas de produto,
+- **Gradiente MIEL**: Favo Claro → Pêssego Japonês → Mel Puro — usado em fundos de Stories, capas de produto,
   embalagens.
 - **Textura de papel**: leve grão/textura de papel reciclado como elemento recorrente (reforça sensorialidade e
   sustentabilidade).
