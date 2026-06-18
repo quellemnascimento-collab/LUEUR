@@ -7,7 +7,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Razão/Nome Fantasia** | Miel Paper |
+| **Razão/Nome Fantasia** | Miel Paper Co. |
+| **Domínio** | www.mielpaper.com.br |
 | **CNPJ** | 65.723.134/0001-86 |
 | **Setor** | Comércio varejista de papelaria de design (D2C + marketplaces) |
 | **CNAE principal recomendado** | 47.61-0/03 — Comércio varejista de artigos de papelaria |
@@ -149,7 +150,7 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
 | `planilhas/estoque.csv` | Controle de estoque |
 | `planilhas/fluxo_caixa_projecao.csv` | Projeção financeira mês a mês |
 | `planilhas/fluxo_caixa_registro.csv` | Registro real de fluxo de caixa |
-| `DOSSIE_LUEUR.md` | Este documento — visão executiva consolidada (mantém o nome de arquivo original por continuidade) |
+| `DOSSIE_MIEL_PAPER.md` | Este documento — visão executiva consolidada |
 
 ---
 
@@ -161,4 +162,4 @@ Detalhamento completo, premissas e uso de capital: `PLANO_DE_NEGOCIO_V2.md`, se�
    anterior ainda não tinha sido iniciado, não há nenhum processo a desfazer; o timing do rebranding é ideal
    para já entrar com o pedido direto no nome definitivo.
 4. Definir os primeiros produtos de lançamento da linha única MIEL.
-5. Configurar site (Nuvemshop) + Shopee + Instagram Shop.
+5. Configurar site (Nuvemshop) + Shopee + Instagram Shop — domínio confirmado: **www.mielpaper.com.br**.

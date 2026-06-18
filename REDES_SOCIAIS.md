@@ -19,7 +19,7 @@
   papelaria + ateliê — feito pra durar e pra brilhar na sua mesa
   o doce no detalhe 👇
   ```
-- **Link**: usar link único (Linktree/Beacons) apontando para: site, WhatsApp VIP, formulário Ateliê.
+- **Link**: usar link único (Linktree/Beacons) apontando para: site (**www.mielpaper.com.br**), WhatsApp VIP, formulário Ateliê.
 - **Destaques (Stories Highlights)** — capas seguindo a paleta (Favo Claro/Mel Puro):
   1. **Sobre** — manifesto da marca
   2. **Linha MIEL** — produtos em destaque (lançamentos, novidades)

@@ -5,10 +5,10 @@
 > empresa se organiza por setores, quanto custa de fato operar nos próximos 6 meses, e quantas pessoas você
 > realmente precisa contratar — e quando.
 
-**CNPJ ativo**: `65.723.134/0001-86` — **Miel Paper** (nome comercial/fantasia; já constituída, nome fantasia
-atualizado de "Lueur" para "Miel" e, em sequência, para o nome comercial completo "Miel Paper"; a titularidade
+**CNPJ ativo**: `65.723.134/0001-86` — **Miel Paper Co.** (nome comercial/fantasia; já constituída, nome fantasia
+atualizado de "Lueur" para "Miel" e, em sequência, para o nome comercial completo "Miel Paper Co."; a titularidade
 do CNPJ não muda). A partir daqui, o foco é enquadramento, regularização e abertura de canais com base nesse
-CNPJ.
+CNPJ. **Domínio oficial confirmado**: www.mielpaper.com.br.
 
 ---
 
@@ -37,7 +37,7 @@ Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual r
      adesivos, kits, brindes) e, se aplicável, 82.99-7/99 (personalização).
    - Se algum CNAE necessário estiver faltando, solicitar **inclusão de atividade** junto à Receita/Junta Comercial
      (pode ser feito pelo Portal do Empreendedor se for MEI, ou via contador se for ME).
-2. **Nome fantasia**: atualizar o registro no CNPJ de "Lueur Papelaria" para "Miel Paper" junto à
+2. **Nome fantasia**: atualizar o registro no CNPJ de "Lueur Papelaria" para "Miel Paper Co." junto à
    Receita/Junta Comercial.
 3. **Conta PJ**: abrir/confirmar conta PJ digital vinculada ao CNPJ `65.723.134/0001-86` (Nubank PJ, Inter PJ, C6 PJ
    — gratuitas e 100% online), caso ainda não exista.
@@ -248,6 +248,7 @@ Se R$ 65-90k não estiver disponível agora, ajuste por **ordem de prioridade** 
   adicionando Mercado Livre no mês 2).
 - [ ] Agendar 1ª sessão de fotos de produto (mesmo que com celular + boa luz — seguindo a estética "golden
   hour/night" do branding).
+- [x] Domínio do site confirmado pela fundadora: **www.mielpaper.com.br** (configurar na Nuvemshop).
 
 ### 5.3 Critérios para decisões futuras (regra de bolso)
 

@@ -1,6 +1,10 @@
-# LUEUR — Plano de Negócio Completo
+# Miel Paper Co. — Plano de Negócio Completo
 ### Papelaria de autor com conceito de marca emocional e digital-first
 
+> Nota: este plano foi escrito originalmente sob o nome "Lueur" — nome histórico/original da marca, posteriormente
+> alterado para o nome comercial atual, **Miel Paper Co.** O conceito narrativo abaixo é mantido como histórico;
+> as referências à marca em si foram atualizadas para o nome atual.
+>
 > **LUEUR** vem do francês e significa "lampejo de luz", "brilho suave", "claridade que nasce no escuro".
 > Esse é o território de marca: **papelaria para os momentos entre o dia e a noite** — o caderno onde você anota
 > o que pensou antes de dormir, o planner que ilumina a rotina, os materiais que tornam o ato de escrever/criar
@@ -15,7 +19,7 @@ investidores/sócios entenderem o racional de negócio, diferenciação, mercado
 
 | Item | Descrição |
 |---|---|
-| **Nome** | LUEUR Papelaria |
+| **Nome** | Miel Paper Co. (nome original: Lueur Papelaria) |
 | **Categoria** | Papelaria de design (planners, cadernos, adesivos, kits de journaling, acessórios de escrita e organização) |
 | **Modelo** | D2C (direct-to-consumer) digital-first + marketplaces, com loja própria via e-commerce |
 | **Posicionamento** | "Papelaria do brilho próprio" — produtos com identidade visual baseada em luz, sombra, gradientes de céu (aurora/golden hour/noite estrelada) e toques fosforescentes/metalizados |
@@ -43,19 +47,19 @@ investidores/sócios entenderem o racional de negócio, diferenciação, mercado
 
 **Marcas nacionais de referência (estética e operação):**
 
-| Marca | O que fazem bem | Onde a LUEUR se diferencia |
+| Marca | O que fazem bem | Onde a Miel Paper Co. se diferencia |
 |---|---|---|
-| **Block Notes / Else Papelaria** | Estética minimalista, paleta neutra | LUEUR usa paleta "luz noturna" — tons profundos com acabamentos que brilham |
-| **Tropix / Mansão Maker** | Comunidade forte, conteúdo educativo (como fazer journaling) | LUEUR foca em "ritual noturno" como gancho de conteúdo, nicho ainda pouco explorado |
-| **Brink Studio / Lovely Paper** | Produtos fofos, cores pastel, "kawaii" | LUEUR foge do pastel — usa gradientes de céu, preto aveludado, dourado/cobre |
-| **Cicero (papelaria tradicional)** | Distribuição em grandes redes/papelarias físicas | LUEUR nasce digital, com produção sob demanda/lotes pequenos, sem depender de grandes redes |
-| **Kraft House / Asas Criativas** | Embalagens sustentáveis, kraft | LUEUR incorpora sustentabilidade, mas com contraste: kraft + detalhes metálicos/fosforescentes |
+| **Block Notes / Else Papelaria** | Estética minimalista, paleta neutra | Miel Paper Co. usa paleta "luz noturna" — tons profundos com acabamentos que brilham |
+| **Tropix / Mansão Maker** | Comunidade forte, conteúdo educativo (como fazer journaling) | Miel Paper Co. foca em "ritual noturno" como gancho de conteúdo, nicho ainda pouco explorado |
+| **Brink Studio / Lovely Paper** | Produtos fofos, cores pastel, "kawaii" | Miel Paper Co. foge do pastel — usa gradientes de céu, preto aveludado, dourado/cobre |
+| **Cicero (papelaria tradicional)** | Distribuição em grandes redes/papelarias físicas | Miel Paper Co. nasce digital, com produção sob demanda/lotes pequenos, sem depender de grandes redes |
+| **Kraft House / Asas Criativas** | Embalagens sustentáveis, kraft | Miel Paper Co. incorpora sustentabilidade, mas com contraste: kraft + detalhes metálicos/fosforescentes |
 
 **Referências internacionais (estética e storytelling):**
 
 - **Poketo** (EUA) — papelaria minimalista com cor como protagonista.
-- **Yoseka Stationery** (EUA) — vídeos ASMR de papelaria, formato que pode inspirar conteúdo da LUEUR.
-- **Maison Marais / Papier** (Europa) — branding editorial, fotografia em luz natural baixa (golden hour), que conversa diretamente com o conceito LUEUR.
+- **Yoseka Stationery** (EUA) — vídeos ASMR de papelaria, formato que pode inspirar conteúdo da Miel Paper Co.
+- **Maison Marais / Papier** (Europa) — branding editorial, fotografia em luz natural baixa (golden hour), que conversa diretamente com o conceito Miel Paper Co.
 - **Hobonichi** (Japão) — comunidade de "planner addicts" e cultura de personalização/decoração de páginas.
 - **Archer & Olive** (EUA) — cadernos para arte/journaling com foco em qualidade de papel — referência de benchmark de produto.
 
@@ -65,19 +69,19 @@ papelaria a temas como autoconhecimento, descanso, criatividade noturna e "dar-s
 
 ---
 
-## 3. Branding LUEUR
+## 3. Branding Miel Paper Co.
 
 ### 3.1 Conceito central (Big Idea)
 
 > **"Cada um brilha na sua hora."**
 
 A marca nasce da ideia de que nem todo mundo floresce de manhã — muita gente tem suas melhores ideias, reflexões e
-momentos de criatividade à noite, no fim do dia, nos "intervalos". LUEUR celebra esses momentos de luz própria,
+momentos de criatividade à noite, no fim do dia, nos "intervalos". Miel Paper Co. celebra esses momentos de luz própria,
 em qualquer horário.
 
 ### 3.2 Sistema de coleções — "Fases da Luz"
 
-Em vez de coleções sazonais genéricas, a LUEUR organiza seu catálogo em **4 fases de luz**, cada uma com paleta,
+Em vez de coleções sazonais genéricas, a Miel Paper Co. organiza seu catálogo em **4 fases de luz**, cada uma com paleta,
 texturas e propósito de uso definidos. Isso cria recorrência de compra (colecionismo) e facilita conteúdo editorial.
 
 | Fase | Paleta | Acabamentos | Proposta de produto |
@@ -91,12 +95,12 @@ Cada fase pode virar uma "drop" (lançamento limitado), gerando senso de exclusi
 
 ### 3.3 Identidade visual
 
-- **Logo**: wordmark "LUEUR" em letras finas (serifa editorial, ex: estilo *Canela* ou *Fraunces*), com a possibilidade
+- **Logo**: wordmark "Miel Paper Co." em letras finas (serifa editorial, ex: estilo *Canela* ou *Fraunces*), com a possibilidade
   de um "ponto de luz" substituindo o ponto no "i" — pequeno glifo circular com gradiente que remete a um sol/lua.
 - **Paleta-base da marca** (fora das coleções): preto profundo, branco-papel (off-white quente) e um dourado/cobre como cor de destaque — transmite sofisticação e "luz".
 - **Tipografia**: serifada editorial para títulos (elegância, "diário"), sans-serif geométrica para textos/UX (Inter, Manrope ou similar).
 - **Fotografia**: sempre em luz baixa/contraste — golden hour, luz de vela, luz de abajur. Nunca fotos em luz branca de estúdio "clean". Isso é o principal diferencial visual da marca nas redes.
-- **Packaging**: caixas em papel kraft ou preto mate, com selo de cera ou adesivo metalizado "LUEUR", + cartão com frase da coleção + QR code para playlist/conteúdo exclusivo (gamificação leve).
+- **Packaging**: caixas em papel kraft ou preto mate, com selo de cera ou adesivo metalizado "Miel Paper Co.", + cartão com frase da coleção + QR code para playlist/conteúdo exclusivo (gamificação leve).
 
 ### 3.4 Tom de voz
 
@@ -111,10 +115,10 @@ Cada fase pode virar uma "drop" (lançamento limitado), gerando senso de exclusi
 
 ### 4.1 Pilares de conteúdo
 
-1. **"Ritual da Noite"** — conteúdo recorrente (ex: toda quinta) mostrando rotinas noturnas de journaling com produtos LUEUR, em vídeo com luz baixa/ambiente.
+1. **"Ritual da Noite"** — conteúdo recorrente (ex: toda quinta) mostrando rotinas noturnas de journaling com produtos Miel Paper Co., em vídeo com luz baixa/ambiente.
 2. **Bastidores de produção** — processo de criação dos produtos (escolha de papel, testes de tinta fosforescente, etc.) — gera confiança e storytelling de marca pequena/autoral.
 3. **Educacional** — "como começar um diário de gratidão", "métodos de planner (bullet journal, time-blocking)".
-4. **UGC (User Generated Content)** — repost de clientes decorando/usando produtos, com hashtag própria (#MinhaLueur ou #BrilhoProprio).
+4. **UGC (User Generated Content)** — repost de clientes decorando/usando produtos, com hashtag própria (#MinhaMielPaper ou #BrilhoProprio).
 5. **Drops e bastidores de coleção** — contagem regressiva, sneak peeks, "qual fase da luz é você?" (quiz interativo).
 
 ### 4.2 Linguagem por rede social
@@ -125,7 +129,7 @@ Cada fase pode virar uma "drop" (lançamento limitado), gerando senso de exclusi
 | **TikTok** | Aquisição/descoberta | Vídeos curtos, "packing orders", ASMR de papel/canetas, trends sonoros adaptados ao universo "noturno/cozy", desafios de journaling |
 | **Pinterest** | SEO visual de longo prazo | Pins verticais com paleta de cada "fase da luz", moodboards, inspiração de decoração de planner — tráfego orgânico contínuo |
 | **WhatsApp (Comunidade/Broadcast)** | Relacionamento direto + vendas recorrentes | Lista VIP para pré-venda de drops, avisos de restock, atendimento pessoal |
-| **YouTube (Shorts + vídeos longos)** | Aprofundamento e SEO | Vlogs "um mês com planner LUEUR", reviews longos, tutoriais |
+| **YouTube (Shorts + vídeos longos)** | Aprofundamento e SEO | Vlogs "um mês com planner Miel Paper Co.", reviews longos, tutoriais |
 
 **Tom geral**: poético mas acessível, em português coloquial culto. Emojis usados com moderação (✨🌙🕯️ como
 "assinatura visual", evitando excesso). CTAs sempre convidando para um "ritual", não apenas para "comprar".
@@ -134,7 +138,7 @@ Cada fase pode virar uma "drop" (lançamento limitado), gerando senso de exclusi
 
 ## 5. Marketplaces — Presença e Cadastro
 
-Para maximizar alcance sem depender de um único canal, a LUEUR deve estar presente nos seguintes marketplaces,
+Para maximizar alcance sem depender de um único canal, a Miel Paper Co. deve estar presente nos seguintes marketplaces,
 priorizados por relevância para papelaria de design no Brasil:
 
 ### 5.1 Prioridade Alta
@@ -199,7 +203,7 @@ Para inspiração de execução digital (sites, redes sociais, fotografia):
 - **Tropix / Mansão Maker (Instagram)** — referência nacional de comunidade e linguagem.
 
 Esses perfis devem ser acompanhados mensalmente para mapear tendências de formato (não de cópia de estética —
-a LUEUR mantém o conceito "luz/noite" como diferencial).
+a Miel Paper Co. mantém o conceito "luz/noite" como diferencial).
 
 ---
 
@@ -302,7 +306,7 @@ a LUEUR mantém o conceito "luz/noite" como diferencial).
 
 ## 11. Mensagem para Investidores
 
-A LUEUR não compete pelo "espaço de prateleira" das papelarias fofas e pastéis que já saturam o mercado — ela cria
+A Miel Paper Co. não compete pelo "espaço de prateleira" das papelarias fofas e pastéis que já saturam o mercado — ela cria
 **uma nova categoria emocional**: a papelaria dos momentos de luz pessoal, com um sistema de coleções (Fases da Luz)
 que naturalmente gera recorrência de compra, colecionismo e conteúdo editorial de alta qualidade — três motores
 essenciais para crescimento orgânico de marca em redes sociais com baixo CAC.

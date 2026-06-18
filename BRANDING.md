@@ -83,6 +83,28 @@ fotografia, moodboard, pequenos detalhes gráficos), nunca como tema central for
 Esses elementos aparecem com moderação na fotografia de produto, embalagens e moodboard — como assinatura
 discreta, não como decoração obrigatória em cada peça.
 
+### 3.1 Camélia — Vetor Visual Principal da Marca
+
+Entre os elementos do universo simbólico, a **Camélia** é elevada a **vocabulário visual próprio da marca** —
+o motivo assinatura recorrente em todos os pontos de contato (acentos do logo, embalagens, selos, fotografia de
+produto), não apenas um símbolo entre outros. Cisne, Pêssego Japonês e Annecy permanecem como motivos
+secundários/de apoio, usados com moderação para enriquecer o universo simbólico sem competir com a Camélia
+como assinatura principal.
+
+| Fator | Justificativa |
+|---|---|
+| Sofisticação | Camélia é clássica, não popular (não é rosa/margarida) |
+| Feminilidade | Linhas suaves, cor branca/rosa, elegância madura |
+| Atemporalidade | Camélia não é "moda" — é eterna, como a marca |
+| Raridade | Camélia japonesa é luxuosa, premium |
+| Cuidado | Flor que exige cuidado e tempo — dedicação |
+| Alinhamento | Conecta com o cuidado/artesanal do universo "mel" |
+| Diferencial | Praticamente nenhuma papelaria usa camélia como vetor visual — é território livre |
+
+Na prática, a Camélia deve aparecer com prioridade sobre os demais motivos em: acentos do logo e variações de
+selo, papel de carta e cartões de agradecimento, embalagens (impressão discreta ou foil), e como prop recorrente
+na fotografia de produto — sempre dentro da paleta Mel Puro/Favo Claro/Folha de Camélia já estabelecida.
+
 ---
 
 ## 4. Personas
@@ -166,7 +188,7 @@ abaixo do wordmark — substituindo a assinatura anterior "PAPELARIA E ATELIÊ".
   hashtags) — é um elemento de copy/grafismo de apoio, independente do ícone de favo da logo.
 - **Assinatura "PAPER"**: nova assinatura/subtítulo do logo, substitui "PAPELARIA E ATELIÊ" — acompanha o
   rebrand do nome comercial para **Miel Paper**. Usar em toda comunicação institucional (site, embalagens,
-  assinatura de e-mail) onde antes constava a assinatura anterior.
+  assinatura de e-mail) onde antes constava a assinatura anterior. Domínio oficial do site: **www.mielpaper.com.br**.
 - **Versões**:
   1. Logo completo (ícone + wordmark + assinatura "PAPER") — uso principal (site, packaging, perfil social).
   2. Ícone + wordmark, sem assinatura — aplicações menores (favicon grande, selos).
