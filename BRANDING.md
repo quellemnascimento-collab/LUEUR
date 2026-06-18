@@ -141,31 +141,39 @@ discreta, não como decoração obrigatória em cada peça.
 
 ### 5.2 Tipografia
 
-- **Display/Títulos**: Playfair Display (serifada editorial — transmite elegância atemporal).
-- **Corpo/UX**: Inter (legibilidade em telas, neutra, moderna).
+- **Display/Títulos/Logo**: **Mrs Saint Delafield** (Google Fonts, gratuita) — script cursivo conectado, elegante
+  e caligráfico, fiel ao wordmark real do logo "Miel" (laços conectados, traço fluido em linha única). Substitui
+  Playfair Display, que era serifada editorial e não correspondia à assinatura cursiva da logo oficial.
+- **Corpo/UX**: Inter (legibilidade em telas, neutra, moderna) — inalterado.
 - **Uso**: títulos sempre em Terra Mel (`#2E1F18`) ou Mel Puro (`#C8862E`) sobre fundo Favo Claro; nunca
   preto puro.
 
-### 5.3 Logotipo — Versão Final
+### 5.3 Logotipo — Versão Final (logo oficial)
 
-Logo mantém a construção já validada, apenas com o wordmark atualizado: **"Miel"** em Playfair Display (caixa
-baixa, com maiúscula inicial), em tom Terra Mel sobre fundo Favo Claro, com pequenos brilhos/sparkles em
-Mel Puro ao redor das letras (no canto superior esquerdo do "M" e entre as letras do "i" e "e"), e a
-assinatura **"PAPELARIA E ATELIÊ"** em caixa alta, Inter, espaçada, abaixo do wordmark.
+Logo oficial: wordmark **"Miel"** em script cursivo conectado (Mrs Saint Delafield ou equivalente caligráfico),
+em **Mel Puro (`#C8862E`)**, sobre fundo branco/transparente, acompanhado de um **ícone de favo/colmeia
+geométrico** posicionado à esquerda do wordmark, e a assinatura **"PAPER"** em caixa alta, Inter, espaçada,
+abaixo do wordmark — substituindo a assinatura anterior "PAPELARIA E ATELIÊ".
 
-- **Wordmark**: "Miel" em Playfair Display, caixa baixa com inicial maiúscula — mantém o tom acolhedor/editorial
-  da versão anterior.
-- **Glifos**: pequenos sparkles (✦/✧) em Mel Puro posicionados de forma assimétrica ao redor do wordmark —
-  glifo mantido por decisão da fundadora (sem substituição por coração ou outro símbolo).
-- **Assinatura "Papelaria e Ateliê"**: reforça o posicionamento de marca de autor/produção própria — manter essa
-  assinatura em toda comunicação institucional (site, embalagens, assinatura de e-mail).
+- **Wordmark**: "Miel" em script cursivo conectado (Mrs Saint Delafield), caixa baixa, traço único fluido — tom
+  caligráfico e fluido, mais próximo da logo real do que a serifada editorial usada antes.
+- **Ícone**: **ícone de favo/colmeia geométrico** — pequena flor/colmeia hexagonal de pétalas interligadas
+  (formato geométrico, não ilustrativo), em Mel Puro (`#C8862E`), posicionado à esquerda do wordmark, parte
+  fixa do lockup oficial da logo. Este ícone é exclusivo da logo (lockup wordmark + ícone) — não substitui o
+  glifo ✦ usado em textos correntes (bio de redes sociais, selos de embalagem, bullets de copy), que continua
+  inalterado em todo o restante da comunicação da marca.
+- **Glifo ✦/✧ em textos**: mantido sem alteração em toda a comunicação textual (bio, packaging, bullets,
+  hashtags) — é um elemento de copy/grafismo de apoio, independente do ícone de favo da logo.
+- **Assinatura "PAPER"**: nova assinatura/subtítulo do logo, substitui "PAPELARIA E ATELIÊ" — acompanha o
+  rebrand do nome comercial para **Miel Paper**. Usar em toda comunicação institucional (site, embalagens,
+  assinatura de e-mail) onde antes constava a assinatura anterior.
 - **Versões**:
-  1. Logo completo (wordmark + sparkles + assinatura) — uso principal (site, packaging, perfil social).
-  2. Wordmark + sparkles, sem assinatura — aplicações menores (favicon grande, selos).
-  3. Apenas sparkles (✦) — ícone de app, marca de água, elemento gráfico de apoio.
-- **Cores do logo**: versão principal em Terra Mel + sparkles em Mel Puro sobre fundo Favo Claro; versão
-  reversa em Favo Claro + sparkles em Mel Puro sobre fundo Terra Mel (para embalagens escuras/edições
-  especiais).
+  1. Logo completo (ícone + wordmark + assinatura "PAPER") — uso principal (site, packaging, perfil social).
+  2. Ícone + wordmark, sem assinatura — aplicações menores (favicon grande, selos).
+  3. Apenas o ícone de favo/colmeia — ícone de app, marca de água, elemento gráfico de apoio.
+- **Cores do logo**: versão principal — wordmark + ícone em **Mel Puro (`#C8862E`)** sobre fundo branco/
+  transparente (construção única, sem segunda cor). Versão reversa (opcional, para embalagens escuras/edições
+  especiais): wordmark + ícone em Favo Claro sobre fundo Terra Mel.
 
 ### 5.4 Fotografia — Diretrizes
 

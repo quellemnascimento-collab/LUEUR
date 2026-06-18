@@ -1,13 +1,14 @@
-# Miel Ateliê — Linha de Personalização e Encomendas
-### Vertical de receita complementar (alinhada à assinatura "Papelaria e Ateliê")
+# Miel Paper — Linha Ateliê (Personalização e Encomendas)
+### Vertical de receita complementar dentro de Miel Paper
 
 ---
 
 ## 1. Por que essa vertical faz sentido
 
-A assinatura "Papelaria e Ateliê" já comunica que a Miel produz/personaliza — isso é uma vantagem competitiva
-real frente aos concorrentes mapeados (nem Kalunga/Tilibra, nem Papel de Pato/Planeta Kawaii têm "ateliê" como
-parte central da proposta). A linha Ateliê transforma essa percepção em **produto e receita**, sem exigir
+A linha **Ateliê** é a vertical de personalização/encomendas dentro da Miel Paper — produzir/personalizar é uma
+vantagem competitiva real frente aos concorrentes mapeados (nem Kalunga/Tilibra, nem Papel de Pato/Planeta
+Kawaii têm uma linha de ateliê como parte central da proposta). A linha Ateliê transforma essa percepção em
+**produto e receita**, sem exigir
 estrutura nova: usa os mesmos fornecedores/insumos da papelaria de linha, com **ticket médio mais alto** e
 **produção sob encomenda** (sem necessidade de estoque parado).
 

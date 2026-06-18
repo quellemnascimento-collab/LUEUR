@@ -5,9 +5,10 @@
 > empresa se organiza por setores, quanto custa de fato operar nos próximos 6 meses, e quantas pessoas você
 > realmente precisa contratar — e quando.
 
-**CNPJ ativo**: `65.723.134/0001-86` — **Miel — Papelaria e Ateliê** (já constituída, nome fantasia atualizado de
-"Lueur" para "Miel"; a titularidade do CNPJ não muda). A partir daqui, o foco é enquadramento, regularização e
-abertura de canais com base nesse CNPJ.
+**CNPJ ativo**: `65.723.134/0001-86` — **Miel Paper** (nome comercial/fantasia; já constituída, nome fantasia
+atualizado de "Lueur" para "Miel" e, em sequência, para o nome comercial completo "Miel Paper"; a titularidade
+do CNPJ não muda). A partir daqui, o foco é enquadramento, regularização e abertura de canais com base nesse
+CNPJ.
 
 ---
 
@@ -36,7 +37,7 @@ Com o CNPJ já ativo, o primeiro passo é **confirmar com seu contador em qual r
      adesivos, kits, brindes) e, se aplicável, 82.99-7/99 (personalização).
    - Se algum CNAE necessário estiver faltando, solicitar **inclusão de atividade** junto à Receita/Junta Comercial
      (pode ser feito pelo Portal do Empreendedor se for MEI, ou via contador se for ME).
-2. **Nome fantasia**: atualizar o registro no CNPJ de "Lueur Papelaria" para "Miel — Papelaria e Ateliê" junto à
+2. **Nome fantasia**: atualizar o registro no CNPJ de "Lueur Papelaria" para "Miel Paper" junto à
    Receita/Junta Comercial.
 3. **Conta PJ**: abrir/confirmar conta PJ digital vinculada ao CNPJ `65.723.134/0001-86` (Nubank PJ, Inter PJ, C6 PJ
    — gratuitas e 100% online), caso ainda não exista.

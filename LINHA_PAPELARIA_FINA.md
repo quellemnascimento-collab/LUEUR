@@ -123,7 +123,7 @@ papelaria, é um universo de estilo de vida feminino.
 
 | # | Produto | Descrição | Ticket (R$) | Janela | Conteúdo |
 |---|---|---|---|---|---|
-| ★ 22 | **Tote bag "✦ Miel"** | Lona 100% algodão, silk do glifo + assinatura "Papelaria e Ateliê", alça comprida, bolso interno | 65–95 | Mês 1 | "Minha bag de papelaria" — lifestyle |
+| ★ 22 | **Tote bag "✦ Miel"** | Lona 100% algodão, silk do glifo + assinatura "Miel Paper", alça comprida, bolso interno | 65–95 | Mês 1 | "Minha bag de papelaria" — lifestyle |
 | 23 | **T-shirt lettering bordado** | Frase bordada à mão ("o doce no detalhe" ou "miel" em lettering) em camiseta oversize off-white | 110–155 | Mês 3 | Processo de bordado em vídeo — slow stitch |
 | 24 | **Mini perfume de ambiente MIEL** | Sachê perfumado (mesmo olfato da vela) para bolsa, gaveta de cadernos, estojo — cria associação sensorial total da marca | 28–45 | Mês 4 | "Cheiro de organização" |
 

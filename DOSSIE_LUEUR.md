@@ -7,7 +7,7 @@
 
 | Campo | Informação |
 |---|---|
-| **Razão/Nome Fantasia** | Miel — Papelaria e Ateliê |
+| **Razão/Nome Fantasia** | Miel Paper |
 | **CNPJ** | 65.723.134/0001-86 |
 | **Setor** | Comércio varejista de papelaria de design (D2C + marketplaces) |
 | **CNAE principal recomendado** | 47.61-0/03 — Comércio varejista de artigos de papelaria |

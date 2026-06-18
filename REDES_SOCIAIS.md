@@ -5,12 +5,16 @@
 
 ## 1. Setup de Perfis
 
-### 1.1 Instagram (@mielpapelaria)
+### 1.1 Instagram (@mielpaper)
 
-- **Nome do perfil**: Miel — Papelaria e Ateliê
+> **Nota de handle**: o handle social muda de `@mielpapelaria` para **`@mielpaper`**, para consistência com o
+> novo nome comercial "Miel Paper". Isso exige re-registro/atualização do handle nas plataformas reais
+> (Instagram, TikTok) — ainda não está refletido nos perfis ao vivo, apenas neste planejamento.
+
+- **Nome do perfil**: Miel Paper
 - **Bio (versão final)**:
   ```
-  ✦ MIEL (lê-se "mi-él")
+  ✦ MIEL PAPER (lê-se "mi-él")
   beleza funcional para vida intencional
   papelaria + ateliê — feito pra durar e pra brilhar na sua mesa
   o doce no detalhe 👇
@@ -24,14 +28,14 @@
   5. **Bastidores**
   6. **FAQ** (frete, prazo, trocas)
 
-### 1.2 TikTok (@mielpapelaria)
+### 1.2 TikTok (@mielpaper)
 
-- **Bio**: "✦ MIEL (mi-él) | beleza funcional para vida intencional | o doce no detalhe ✨ | link na bio"
+- **Bio**: "✦ MIEL PAPER (mi-él) | beleza funcional para vida intencional | o doce no detalhe ✨ | link na bio"
 - Foco: vídeos curtos, ASMR, desk setup, bastidores de produção.
 
 ### 1.3 Pinterest
 
-- **Nome**: Miel Papelaria
+- **Nome**: Miel Paper
 - **Boards**: "MIEL — Paleta & Texturas", "Desk Setup & Inspiração", "Universo Simbólico MIEL", "Ateliê &
   Personalização" — cada pin linkando para o produto/post correspondente.
 
@@ -107,7 +111,7 @@
 
 ## 5. Hashtags e SEO
 
-- **Hashtag de marca**: #BelezaFuncional (UGC), #MielPapelaria, #VidaIntencional
+- **Hashtag de marca**: #BelezaFuncional (UGC), #MielPaper, #VidaIntencional
 - **Hashtags de nicho** (rotativas, 8-12 por post): #planneraddict #bulletjournal #journaling #papelariacriativa
   #desksetup #aestheticstationery #organizacaopessoal #autocuidado
 - **Pinterest**: usar descrições longas com palavras-chave ("planner aesthetic", "papelaria minimalista",
@@ -129,7 +133,8 @@
 
 ## 7. Próximos passos
 
-- [ ] Confirmar disponibilidade final do handle @mielpapelaria no Instagram/TikTok.
+- [ ] Confirmar disponibilidade final do handle @mielpaper no Instagram/TikTok (novo handle, alinhado ao nome
+  comercial "Miel Paper" — re-registrar/atualizar a partir do handle anterior @mielpapelaria).
 - [ ] Criar templates de Stories/Feed no Canva usando a paleta e tipografia do `moodboard.html`.
 - [ ] Gravar os 4 primeiros Reels da Semana 1 antes do lançamento dos perfis (ter "estoque" de conteúdo).
 - [ ] Abrir lista de transmissão no WhatsApp e divulgar o link desde o primeiro post.

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>MIEL — Moodboard</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
   :root {
     --favo-claro: #F5EDE0;
@@ -26,9 +26,9 @@
     margin-bottom: 40px;
   }
   h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 56px;
-    letter-spacing: 6px;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 72px;
+    letter-spacing: 2px;
     color: var(--terra);
   }
   h1 .glow { color: var(--mel-puro); }
@@ -72,16 +72,16 @@
     background: linear-gradient(135deg, var(--favo-claro), var(--pessego), var(--mel-puro));
     grid-column: span 2;
     color: var(--terra);
-    font-family: 'Playfair Display', serif;
-    font-size: 22px;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 30px;
   }
   .gradient-night {
     background: linear-gradient(135deg, var(--folha), var(--terra));
     grid-column: span 2;
     grid-row: span 2;
     color: var(--favo-claro);
-    font-family: 'Playfair Display', serif;
-    font-size: 22px;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 30px;
     flex-direction: column;
   }
   .glow-dot {
@@ -98,7 +98,7 @@
     justify-content: center;
     border: 1px solid var(--po-de-mel);
   }
-  .type-sample .title { font-family: 'Playfair Display', serif; font-size: 26px; color: var(--terra); }
+  .type-sample .title { font-family: 'Mrs Saint Delafield', cursive; font-size: 34px; color: var(--terra); }
   .type-sample .body { font-family: 'Inter', sans-serif; font-size: 13px; color: var(--mel-puro); margin-top: 6px; }
 
   .logo-cell {
@@ -109,19 +109,18 @@
     border: 1px solid var(--po-de-mel);
   }
   .logo-cell .word {
-    font-family: 'Playfair Display', serif;
-    font-size: 48px;
-    color: var(--terra);
-    position: relative;
-  }
-  .logo-cell .word .star {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 56px;
     color: var(--mel-puro);
-    font-size: 16px;
-    position: absolute;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
   }
-  .logo-cell .word .star.s1 { top: -14px; left: -10px; font-size: 12px; }
-  .logo-cell .word .star.s2 { top: -6px; right: 28px; }
-  .logo-cell .word .star.s3 { bottom: 6px; right: -6px; font-size: 12px; }
+  .logo-cell .word .icon {
+    font-size: 28px;
+    color: var(--mel-puro);
+  }
   .logo-cell .sub { margin-top: 14px; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: var(--mel-puro); }
 
   .texture {
@@ -149,7 +148,7 @@
     line-height: 1.6;
     padding: 24px;
   }
-  .mood-text strong { font-family: 'Playfair Display', serif; font-size: 18px; display:block; margin-bottom: 6px; color: var(--terra); }
+  .mood-text strong { font-family: 'Mrs Saint Delafield', cursive; font-size: 24px; display:block; margin-bottom: 6px; color: var(--terra); }
 </style>
 </head>
 <body>
@@ -161,9 +160,9 @@
   <div class="grid">
     <div class="cell logo-cell">
       <div class="word">
-        <span class="star s1">✧</span>Miel<span class="star s2">✦</span><span class="star s3">✧</span>
+        <span class="icon">⬡</span>Miel
       </div>
-      <div class="sub">Papelaria e Ateliê</div>
+      <div class="sub">Paper</div>
     </div>
 
     <div class="cell gradient-palette">Paleta MIEL</div>
@@ -182,7 +181,7 @@
     </div>
 
     <div class="cell type-sample">
-      <div class="title">Playfair Display</div>
+      <div class="title">Mrs Saint Delafield</div>
       <div class="body">Inter — corpo de texto, UX, legendas</div>
     </div>
 

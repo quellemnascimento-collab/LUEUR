@@ -1,7 +1,7 @@
 # Miel — Catálogo de Produtos Oficial
 ### Planejamento · Organização · Ateliê Personalizado
 
-> Este é o catálogo real da Miel — Papelaria e Ateliê. Cada produto pertence à linha única MIEL, construída
+> Este é o catálogo real da Miel Paper. Cada produto pertence à linha única MIEL, construída
 > sobre "Beleza Funcional para Vida Intencional", com specs de produção, preços sugeridos e estratégia de canal.
 
 ---
